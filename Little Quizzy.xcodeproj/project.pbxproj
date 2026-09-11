@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		1865B08E304FDFFC00D39648 /* BrainBee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrainBee.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1865B0EB30540F6300D39648 /* Little Quizzy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Little Quizzy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1865B090304FDFFC00D39648 /* BrainBee */ = {
+		1865B0ED30540F6300D39648 /* Little Quizzy */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BrainBee;
+			path = "Little Quizzy";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1865B08B304FDFFC00D39648 /* Frameworks */ = {
+		1865B0E830540F6300D39648 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1865B085304FDFFC00D39648 = {
+		1865B0E230540F6300D39648 = {
 			isa = PBXGroup;
 			children = (
-				1865B090304FDFFC00D39648 /* BrainBee */,
-				1865B08F304FDFFC00D39648 /* Products */,
+				1865B0ED30540F6300D39648 /* Little Quizzy */,
+				1865B0EC30540F6300D39648 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1865B08F304FDFFC00D39648 /* Products */ = {
+		1865B0EC30540F6300D39648 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1865B08E304FDFFC00D39648 /* BrainBee.app */,
+				1865B0EB30540F6300D39648 /* Little Quizzy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1865B08D304FDFFC00D39648 /* BrainBee */ = {
+		1865B0EA30540F6300D39648 /* Little Quizzy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1865B099304FDFFE00D39648 /* Build configuration list for PBXNativeTarget "BrainBee" */;
+			buildConfigurationList = 1865B0F630540F6500D39648 /* Build configuration list for PBXNativeTarget "Little Quizzy" */;
 			buildPhases = (
-				1865B08A304FDFFC00D39648 /* Sources */,
-				1865B08B304FDFFC00D39648 /* Frameworks */,
-				1865B08C304FDFFC00D39648 /* Resources */,
+				1865B0E730540F6300D39648 /* Sources */,
+				1865B0E830540F6300D39648 /* Frameworks */,
+				1865B0E930540F6300D39648 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1865B090304FDFFC00D39648 /* BrainBee */,
+				1865B0ED30540F6300D39648 /* Little Quizzy */,
 			);
-			name = BrainBee;
+			name = "Little Quizzy";
 			packageProductDependencies = (
 			);
-			productName = BrainBee;
-			productReference = 1865B08E304FDFFC00D39648 /* BrainBee.app */;
+			productName = "Little Quizzy";
+			productReference = 1865B0EB30540F6300D39648 /* Little Quizzy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1865B086304FDFFC00D39648 /* Project object */ = {
+		1865B0E330540F6300D39648 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					1865B08D304FDFFC00D39648 = {
+					1865B0EA30540F6300D39648 = {
 						CreatedOnToolsVersion = 26.6;
 					};
 				};
 			};
-			buildConfigurationList = 1865B089304FDFFC00D39648 /* Build configuration list for PBXProject "BrainBee" */;
+			buildConfigurationList = 1865B0E630540F6300D39648 /* Build configuration list for PBXProject "Little Quizzy" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 1865B085304FDFFC00D39648;
+			mainGroup = 1865B0E230540F6300D39648;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 1865B08F304FDFFC00D39648 /* Products */;
+			productRefGroup = 1865B0EC30540F6300D39648 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1865B08D304FDFFC00D39648 /* BrainBee */,
+				1865B0EA30540F6300D39648 /* Little Quizzy */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1865B08C304FDFFC00D39648 /* Resources */ = {
+		1865B0E930540F6300D39648 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1865B08A304FDFFC00D39648 /* Sources */ = {
+		1865B0E730540F6300D39648 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1865B097304FDFFE00D39648 /* Debug */ = {
+		1865B0F430540F6500D39648 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		1865B098304FDFFE00D39648 /* Release */ = {
+		1865B0F530540F6500D39648 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		1865B09A304FDFFE00D39648 /* Debug */ = {
+		1865B0F730540F6500D39648 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -263,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Genesis.BrainBee;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Genesis.Little-Quizzy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -275,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		1865B09B304FDFFE00D39648 /* Release */ = {
+		1865B0F830540F6500D39648 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Genesis.BrainBee;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Genesis.Little-Quizzy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1865B089304FDFFC00D39648 /* Build configuration list for PBXProject "BrainBee" */ = {
+		1865B0E630540F6300D39648 /* Build configuration list for PBXProject "Little Quizzy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1865B097304FDFFE00D39648 /* Debug */,
-				1865B098304FDFFE00D39648 /* Release */,
+				1865B0F430540F6500D39648 /* Debug */,
+				1865B0F530540F6500D39648 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1865B099304FDFFE00D39648 /* Build configuration list for PBXNativeTarget "BrainBee" */ = {
+		1865B0F630540F6500D39648 /* Build configuration list for PBXNativeTarget "Little Quizzy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1865B09A304FDFFE00D39648 /* Debug */,
-				1865B09B304FDFFE00D39648 /* Release */,
+				1865B0F730540F6500D39648 /* Debug */,
+				1865B0F830540F6500D39648 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1865B086304FDFFC00D39648 /* Project object */;
+	rootObject = 1865B0E330540F6300D39648 /* Project object */;
 }

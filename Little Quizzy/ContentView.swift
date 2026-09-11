@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  BrainBee
+//  Little Quizzy
 //
-//  Created by Rahul Kumar on 08/09/26.
+//  Created by Rahul Kumar on 11/09/26.
 //
 
 import SwiftUI
