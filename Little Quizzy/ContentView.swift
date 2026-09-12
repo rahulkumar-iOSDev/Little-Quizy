@@ -26,7 +26,6 @@ struct ContentView: View {
 }
 
 #Preview {
-    //ContentView()
     LetsLearnView()
 }
 
@@ -72,15 +71,8 @@ struct LetsLearnView: View {
                     
                 } label: {
                     Text("Let's Learn →")
-                        .font(.title)
-                        .fontWeight(.semibold)
-                        .foregroundStyle(.white)
                 }
-                .frame(height: 60)
-                .frame(maxWidth: .infinity)
-                .background(.primaryBlue)
-                .clipShape(RoundedRectangle(cornerRadius: 20))
-                .padding(.horizontal, 20)
+                .buttonStyle(PrimaryButtonStyle())
                 .padding(.top, -20)
             }
         }

@@ -11,7 +11,8 @@ import SwiftUI
 struct Little_QuizzyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            WhatsNameView()
         }
     }
 }
