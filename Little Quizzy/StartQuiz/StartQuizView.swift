@@ -7,9 +7,10 @@
 
 import SwiftUI
 
-struct WhatsNameView: View {
+struct StartQuizView: View {
     @State private var name: String = ""
     @State private var selectedClass = 6
+    @EnvironmentObject private var router: NavigationRouter
     
     var body: some View {
         GeometryReader { geometry in
@@ -49,7 +50,7 @@ struct WhatsNameView: View {
                     ClassSelectionView(selectedClass: $selectedClass)
                     
                     Button {
-                        
+                        router.popView()
                     } label: {
                         Text("Start Quiz →")
                     }
@@ -67,7 +68,7 @@ struct WhatsNameView: View {
 }
 
 #Preview {
-    WhatsNameView()
+    StartQuizView()
 }
 
 struct NameTextField: View {
