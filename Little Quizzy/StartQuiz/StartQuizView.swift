@@ -11,6 +11,8 @@ struct StartQuizView: View {
     @State private var name: String = ""
     @State private var selectedClass = 6
     @EnvironmentObject private var router: NavigationRouter
+    @AppStorage(AppStorageKey.hasCompletedOnboarding) private var hasCompletedOnboarding = false
+    @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""
     
     var body: some View {
         GeometryReader { geometry in
@@ -22,7 +24,7 @@ struct StartQuizView: View {
                     Text("What's Your Name?")
                         .font(.system(size: 28))
                         .fontWeight(.semibold)
-                        .foregroundStyle(.text)
+                        .foregroundStyle(.appText)
                     
                     Text("We'll remember your name for your\nquizzes.")
                         .font(.title3)
@@ -34,7 +36,7 @@ struct StartQuizView: View {
                     Text("🧑‍🎓")
                         .font(.system(size: 100))
                         .fontWeight(.semibold)
-                        .foregroundStyle(.text)
+                        .foregroundStyle(.appText)
                         .padding(.top, 10)
                     
                     NameTextField(name: $name)
@@ -44,13 +46,13 @@ struct StartQuizView: View {
                         .font(.title3)
                         .multilineTextAlignment(.center)
                         .fontWeight(.bold)
-                        .foregroundStyle(.text)
+                        .foregroundStyle(.appText)
                         .padding()
                     
                     ClassSelectionView(selectedClass: $selectedClass)
                     
                     Button {
-                        router.popView()
+                        saveUser()
                     } label: {
                         Text("Start Quiz →")
                     }
@@ -62,9 +64,18 @@ struct StartQuizView: View {
                 }
             }
             .frame(maxWidth: geometry.size.width, maxHeight: geometry.size.height)
-            .background(.whiteBackground)
+            .background(.appWhiteBg)
         }
     }
+    
+    private func saveUser() {
+         let name = name.trimmingCharacters(in: .whitespacesAndNewlines)
+         guard !name.isEmpty else {
+             return
+         }
+        AppStorageUserName = name
+        hasCompletedOnboarding = true
+     }
 }
 
 #Preview {
@@ -85,7 +96,7 @@ struct NameTextField: View {
                 .font(.system(size: 20, weight: .medium))
                 .foregroundStyle(.primary)
                 .frame(width: 200)
-                .tint(.primaryBlue)
+                .tint(.appPrimaryBlue)
         }
         .padding(.horizontal, 30)
         .frame(height: 50)
@@ -124,7 +135,7 @@ struct ClassSelectionView: View {
                             .frame(width: 40, height: 44)
                             .background(
                                 selectedClass == classNumber
-                                ? .primaryBlue
+                                ? .appPrimaryBlue
                                 : Color(red: 0.86, green: 0.91, blue: 0.98)
                             )
                             .clipShape(

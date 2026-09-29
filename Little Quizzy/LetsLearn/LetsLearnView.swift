@@ -20,7 +20,7 @@ struct LetsLearnView: View {
                     Text("Quizzy")
                         .font(.system(size: 60))
                         .fontWeight(.bold)
-                        .foregroundStyle(.accentYellow)
+                        .foregroundStyle(.appYellow)
                         .padding(.top, -50)
                         .padding(.bottom, 10)
                     Text("LEARN . THINK . GROW")
@@ -45,7 +45,7 @@ struct LetsLearnView: View {
             }
             .frame(maxWidth: .infinity)
             .frame(maxHeight: .infinity)
-            .background(.whiteBackground)
+            .background(.appWhiteBg)
             .ignoresSafeArea()
             .navigationDestination(for: OnboardingRoute.self, destination: { $0 })
         }

@@ -16,7 +16,7 @@ struct PrimaryButtonStyle: ButtonStyle {
             .foregroundStyle(.white)
             .frame(maxWidth: .infinity)
             .frame(height: 50)
-            .background(.primaryBlue)
+            .background(.appPrimaryBlue)
             .clipShape(
                 RoundedRectangle(cornerRadius: 14)
             )

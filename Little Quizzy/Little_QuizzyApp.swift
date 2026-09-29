@@ -12,7 +12,7 @@ struct Little_QuizzyApp: App {
     @StateObject private var navigationRouter = NavigationRouter()
     var body: some Scene {
         WindowGroup {
-            LetsLearnView()
+            RootView()
                 .environmentObject(navigationRouter)
         }
     }
