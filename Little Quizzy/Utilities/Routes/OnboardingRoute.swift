@@ -10,23 +10,11 @@ import SwiftUI
 
 enum OnboardingRoute {
     case startQuiz
+    case randomQuizView
 }
 
 extension OnboardingRoute: Hashable {
-//    
-//    func hash(into hasher: inout Hasher) {
-//        hasher.combine(self.hashValue)
-//    }
-//    
-//    static func == (lhs: OnboardingRoute, rhs: OnboardingRoute) -> Bool {
-//        switch (lhs, rhs) {
-//        case
-//            (.startQuiz, .startQuiz):
-//            return true
-//        default:
-//            return false
-//        }
-//    }
+
 }
 
 extension OnboardingRoute: View {
@@ -34,6 +22,8 @@ extension OnboardingRoute: View {
         switch self {
         case .startQuiz:
             StartQuizView()
+        case .randomQuizView:
+            QuizView(mode: .random)
         }
     }
 }

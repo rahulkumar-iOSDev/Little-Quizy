@@ -9,6 +9,6 @@ import Foundation
 
 @Observable
 class SubjectsViewModel {
-    let subjects: [Subject] = Subject.mockSubject
+    let subjects: [StaticSubject] = StaticSubject.mockSubject
     
 }

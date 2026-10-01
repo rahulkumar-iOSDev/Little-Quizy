@@ -8,41 +8,41 @@
 import Foundation
 import SwiftUI
 
-struct Subject: Identifiable {
+struct StaticSubject: Identifiable {
     let id = UUID()
     let name: String
     let emoji: String
     let color: Color
 }
 
-extension Subject {
-    static let mockSubject: [Subject] = [
-        Subject(
+extension StaticSubject {
+    static let mockSubject: [StaticSubject] = [
+        StaticSubject(
             name: "Maths",
             emoji: "🧮",
             color: Color.blue.opacity(0.15)
         ),
-        Subject(
+        StaticSubject(
             name: "English",
             emoji: "📖",
             color: Color.pink.opacity(0.15)
         ),
-        Subject(
+        StaticSubject(
             name: "Science",
             emoji: "🧪",
             color: Color.green.opacity(0.15)
         ),
-        Subject(
+        StaticSubject(
             name: "Social Studies",
             emoji: "🌎",
             color: Color.yellow.opacity(0.25)
         ),
-        Subject(
+        StaticSubject(
             name: "Hindi",
             emoji: "अ",
             color: Color.purple.opacity(0.15)
         ),
-        Subject(
+        StaticSubject(
             name: "GK",
             emoji: "💡",
             color: Color.cyan.opacity(0.15)

@@ -1,0 +1,1454 @@
+{
+    "questions": [
+        {
+            "id": "math_001",
+            "subject": "math",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "What is 7 + 5?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "10",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "12",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "13",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "14",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_002",
+            "subject": "math",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "What is 9 - 4?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "5",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "6",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_003",
+            "subject": "math",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "What is 6 × 3?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "18",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "16",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "21",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_004",
+            "subject": "math",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "What is 24 ÷ 6?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "3",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "4",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "6",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_005",
+            "subject": "math",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "What is 15 + 27?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "40",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "41",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "42",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "43",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_006",
+            "subject": "math",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "What is 9 × 7?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "54",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "63",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "72",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "81",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_007",
+            "subject": "math",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "What is 25% of 80?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "15",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "20",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "25",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "30",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_008",
+            "subject": "math",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "What is the value of 3² + 4²?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "12",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "25",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "49",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_009",
+            "subject": "math",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "If x + 7 = 15, what is x?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "7",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "8",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "9",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "math_010",
+            "subject": "math",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "What is the LCM of 6 and 8?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "12",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "18",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "24",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "48",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_001",
+            "subject": "science",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "Which part of a plant is usually green?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Root",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Leaf",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Flower",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Seed",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_002",
+            "subject": "science",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "What do humans need to breathe?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Oxygen",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Sand",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Salt",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Smoke",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_003",
+            "subject": "science",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "Which animal gives us milk?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Cow",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Lion",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Tiger",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Eagle",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_004",
+            "subject": "science",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "What is the main source of light for Earth?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Moon",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Stars",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Sun",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Clouds",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_005",
+            "subject": "science",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "Water changes into ice when it is...",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Heated",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Frozen",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Boiled",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Mixed",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_006",
+            "subject": "science",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "Which organ pumps blood around the body?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Lungs",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Brain",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Heart",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Stomach",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_007",
+            "subject": "science",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "Which gas do plants mainly use during photosynthesis?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Oxygen",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Carbon dioxide",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Nitrogen",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Hydrogen",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_008",
+            "subject": "science",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "What force pulls objects toward Earth?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Magnetism",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Friction",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Gravity",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Electricity",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_009",
+            "subject": "science",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "Which blood cells help fight infections?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Red blood cells",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "White blood cells",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Platelets",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Plasma",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "science_010",
+            "subject": "science",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "What is the process by which liquid water becomes water vapor?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Condensation",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Freezing",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Evaporation",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Melting",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_001",
+            "subject": "geography",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "Which planet do we live on?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Mars",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Earth",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Venus",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Jupiter",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_002",
+            "subject": "geography",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "What is the name of the place where land meets the sea?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Coast",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Forest",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Desert",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Valley",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_003",
+            "subject": "geography",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "Which is the largest ocean?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Atlantic Ocean",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Indian Ocean",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Pacific Ocean",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Arctic Ocean",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_004",
+            "subject": "geography",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "Which direction does the Sun rise from?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "North",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "South",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "East",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "West",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_005",
+            "subject": "geography",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "What is the capital of India?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Mumbai",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "New Delhi",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Kolkata",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Chennai",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_006",
+            "subject": "geography",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "Which is the largest continent?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Africa",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Europe",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Asia",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Australia",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_007",
+            "subject": "geography",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "The Equator divides Earth into which two halves?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "East and West",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "North and South",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Land and Water",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Day and Night",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_008",
+            "subject": "geography",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "Which layer of Earth is the outermost solid layer?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Core",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Mantle",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Crust",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Inner core",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_009",
+            "subject": "geography",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "Which imaginary line is at 0° longitude?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Equator",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Tropic of Cancer",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Prime Meridian",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "International Date Line",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "geography_010",
+            "subject": "geography",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "Which type of rainfall occurs when moist air rises over mountains?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Relief rainfall",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Convectional rainfall",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Cyclonic rainfall",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Artificial rainfall",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_001",
+            "subject": "reading",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "Which word rhymes with 'cat'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Dog",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Hat",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Sun",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Cup",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_002",
+            "subject": "reading",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "What is the opposite of 'hot'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Warm",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Cold",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Big",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Fast",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_003",
+            "subject": "reading",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "Which word means the same as 'happy'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Sad",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Angry",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Joyful",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Tired",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_004",
+            "subject": "reading",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "Choose the noun: 'The dog runs fast.'",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Runs",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Fast",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "The",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Dog",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": "reading_005",
+            "subject": "reading",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "Which sentence is written in the past tense?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "I walk to school.",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "I am walking to school.",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "I walked to school.",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "I will walk to school.",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_006",
+            "subject": "reading",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "What is the main idea of a paragraph?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "The smallest detail",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "The central point",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "The last word",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "The title only",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_007",
+            "subject": "reading",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "Which punctuation mark ends a question?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Period",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Comma",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Question mark",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Colon",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_008",
+            "subject": "reading",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "What does the word 'ancient' mean?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Very old",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Very small",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Very loud",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Very fast",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_009",
+            "subject": "reading",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "What is a metaphor?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "A direct comparison without 'like' or 'as'",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "A question",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "A spelling rule",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "A type of punctuation",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "reading_010",
+            "subject": "reading",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "Which point of view uses 'I' and 'we'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "First person",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Second person",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Third person",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Omniscient only",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_001",
+            "subject": "english",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "Which letter comes after B?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "A",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "C",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "D",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "E",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_002",
+            "subject": "english",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "Which word is a color?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Apple",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Blue",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Chair",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Run",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_003",
+            "subject": "english",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "Choose the correct article: ___ apple.",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "A",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "An",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Thee",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "No",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_004",
+            "subject": "english",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "What is the plural of 'child'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Childs",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Childes",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Children",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Childrens",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_005",
+            "subject": "english",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "Which word is an adjective in 'The tall boy smiled'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Boy",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Smiled",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Tall",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "The",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_006",
+            "subject": "english",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "Choose the correct spelling.",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Beautifull",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Beutiful",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Beautiful",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Beautifol",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_007",
+            "subject": "english",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "What is the past tense of 'go'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Goed",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Gone",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Went",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Going",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_008",
+            "subject": "english",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "Which word is a synonym for 'quick'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Slow",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Fast",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Late",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Quiet",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_009",
+            "subject": "english",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "Which sentence uses a conjunction correctly?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "I like tea and coffee.",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "I like tea quickly coffee.",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "I tea and like coffee.",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Tea coffee and.",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "english_010",
+            "subject": "english",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "Which word is an adverb in 'She sang beautifully'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "She",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Sang",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Beautifully",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "None",
+                    "isAnswer": false
+                }
+            ]
+        }
+    ]
+}

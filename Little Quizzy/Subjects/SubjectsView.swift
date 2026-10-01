@@ -27,9 +27,7 @@ struct SubjectsView: View {
                 
                 Text("Ready to learn?")
                     .multilineTextAlignment(.leading)
-                    .font(.title3)
-                    .multilineTextAlignment(.center)
-                    .fontWeight(.semibold)
+                    .font(.callout)
                     .foregroundStyle(.gray)
                     .fixedSize(horizontal: false, vertical: true)
             }
@@ -41,10 +39,7 @@ struct SubjectsView: View {
             .padding(.top, 20)
             Spacer()
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .padding()
-        .background(.appWhiteBg)
-        .ignoresSafeArea(edges: .horizontal)
+        .appScreenStyle()
     }
 }
 

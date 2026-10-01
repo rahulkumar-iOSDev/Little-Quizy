@@ -43,12 +43,15 @@ struct LetsLearnView: View {
                     .padding(.top, -20)
                 }
             }
-            .frame(maxWidth: .infinity)
-            .frame(maxHeight: .infinity)
-            .background(.appWhiteBg)
-            .ignoresSafeArea()
+            .appScreenStyle()
             .navigationDestination(for: OnboardingRoute.self, destination: { $0 })
         }
         
     }
+}
+
+#Preview {
+    @Previewable @StateObject var navigationRouter = NavigationRouter()
+    LetsLearnView()
+        .environmentObject(navigationRouter)
 }

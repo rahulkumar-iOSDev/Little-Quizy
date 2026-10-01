@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct SubjectCard: View {
-    let subject: Subject
+    let subject: StaticSubject
     
     var body: some View {
         GeometryReader { geometry in

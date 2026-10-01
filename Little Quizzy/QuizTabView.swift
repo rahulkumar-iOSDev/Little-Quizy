@@ -26,28 +26,6 @@ struct QuizTabView: View {
     }
 }
 
-struct RandomView: View {
-    var body: some View {
-        VStack {
-            Text("Random Tab")
-                .font(.largeTitle)
-            Text("🎲")
-                .font(.system(size: 80))
-        }
-    }
-}
-
-struct ProfileView: View {
-    var body: some View {
-        VStack {
-            Text("Profile Tab")
-                .font(.largeTitle)
-            Text("🧑‍🎓")
-                .font(.system(size: 80))
-        }
-    }
-}
-
 #Preview {
     QuizTabView()
 }

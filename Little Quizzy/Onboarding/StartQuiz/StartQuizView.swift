@@ -15,67 +15,65 @@ struct StartQuizView: View {
     @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""
     
     var body: some View {
-        GeometryReader { geometry in
-            ScrollView(.vertical) {
-                VStack {
-                    
-                    Spacer(minLength: 64)
-                    
-                    Text("What's Your Name?")
-                        .font(.system(size: 28))
-                        .fontWeight(.semibold)
-                        .foregroundStyle(.appText)
-                    
-                    Text("We'll remember your name for your\nquizzes.")
-                        .font(.title3)
-                        .multilineTextAlignment(.center)
-                        .fontWeight(.semibold)
-                        .foregroundStyle(.gray)
-                        .fixedSize(horizontal: false, vertical: true)
-                    
-                    Text("🧑‍🎓")
-                        .font(.system(size: 100))
-                        .fontWeight(.semibold)
-                        .foregroundStyle(.appText)
-                        .padding(.top, 10)
-                    
-                    NameTextField(name: $name)
-                        .padding(.top, -20)
-                    
-                    Text("Choose Class")
-                        .font(.title3)
-                        .multilineTextAlignment(.center)
-                        .fontWeight(.bold)
-                        .foregroundStyle(.appText)
-                        .padding()
-                    
-                    ClassSelectionView(selectedClass: $selectedClass)
-                    
-                    Button {
-                        saveUser()
-                    } label: {
-                        Text("Start Quiz →")
-                    }
-                    .buttonStyle(PrimaryButtonStyle())
-                    .padding(.top, 40)
-                    
-                    Spacer()
-                    
+        ScrollView(.vertical) {
+            VStack {
+                
+                Spacer(minLength: 64)
+                
+                Text("What's Your Name?")
+                    .font(.system(size: 28))
+                    .fontWeight(.semibold)
+                    .foregroundStyle(.appText)
+                
+                Text("We'll remember your name for your\nquizzes.")
+                    .font(.title3)
+                    .multilineTextAlignment(.center)
+                    .fontWeight(.semibold)
+                    .foregroundStyle(.gray)
+                    .fixedSize(horizontal: false, vertical: true)
+                
+                Text("🧑‍🎓")
+                    .font(.system(size: 100))
+                    .fontWeight(.semibold)
+                    .foregroundStyle(.appText)
+                    .padding(.top, 10)
+                
+                NameTextField(name: $name)
+                    .padding(.top, -20)
+                
+                Text("Choose Class")
+                    .font(.title3)
+                    .multilineTextAlignment(.center)
+                    .fontWeight(.bold)
+                    .foregroundStyle(.appText)
+                    .padding()
+                
+                ClassSelectionView(selectedClass: $selectedClass)
+                
+                Button {
+                    saveUser()
+                } label: {
+                    Text("Start Quiz →")
                 }
+                .buttonStyle(PrimaryButtonStyle())
+                .padding(.top, 40)
+                
+                Spacer()
             }
-            .frame(maxWidth: geometry.size.width, maxHeight: geometry.size.height)
-            .background(.appWhiteBg)
         }
+        .appScreenStyle()
     }
     
+    
     private func saveUser() {
-         let name = name.trimmingCharacters(in: .whitespacesAndNewlines)
-         guard !name.isEmpty else {
-             return
-         }
+        let name = name.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !name.isEmpty else {
+            return
+        }
+        router.resetOnbaordingRoute()
         AppStorageUserName = name
         hasCompletedOnboarding = true
-     }
+    }
 }
 
 #Preview {
