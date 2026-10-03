@@ -46,7 +46,7 @@ final class QuizViewModel {
     }
     
     // Inside QuizViewModel
-    func start(numberOfQuestions: Int = 5) {
+    func getQuizQuestions(numberOfQuestions: Int = 5) {
         switch quizMode {
         case .random:
             startRandomQuiz(numberOfQuestions: numberOfQuestions)

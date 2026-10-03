@@ -9,11 +9,9 @@ import SwiftUI
 
 @main
 struct Little_QuizzyApp: App {
-    @StateObject private var navigationRouter = NavigationRouter()
     var body: some Scene {
         WindowGroup {
             RootView()
-                .environmentObject(navigationRouter)
         }
     }
 }

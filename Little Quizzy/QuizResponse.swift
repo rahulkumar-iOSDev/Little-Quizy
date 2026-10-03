@@ -13,7 +13,12 @@ enum QuizMode {
 }
 
 enum Subject: String, Codable, CaseIterable, Identifiable {
-    case math, science, geography, reading, english
+    case maths = "Maths"
+    case science = "Science"
+    case english = "English"
+    case socialStudies = "Social Studies"
+    case hindi = "Hindi"
+    case gk = "GK"
 
     var id: String { rawValue }
     var title: String { rawValue.capitalized }

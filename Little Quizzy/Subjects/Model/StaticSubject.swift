@@ -10,7 +10,7 @@ import SwiftUI
 
 struct StaticSubject: Identifiable {
     let id = UUID()
-    let name: String
+    let name: Subject
     let emoji: String
     let color: Color
 }
@@ -18,32 +18,32 @@ struct StaticSubject: Identifiable {
 extension StaticSubject {
     static let mockSubject: [StaticSubject] = [
         StaticSubject(
-            name: "Maths",
+            name: .maths,
             emoji: "🧮",
             color: Color.blue.opacity(0.15)
         ),
         StaticSubject(
-            name: "English",
+            name: .english,
             emoji: "📖",
             color: Color.pink.opacity(0.15)
         ),
         StaticSubject(
-            name: "Science",
+            name: .science,
             emoji: "🧪",
             color: Color.green.opacity(0.15)
         ),
         StaticSubject(
-            name: "Social Studies",
+            name: .socialStudies,
             emoji: "🌎",
             color: Color.yellow.opacity(0.25)
         ),
         StaticSubject(
-            name: "Hindi",
+            name: .hindi,
             emoji: "अ",
             color: Color.purple.opacity(0.15)
         ),
         StaticSubject(
-            name: "GK",
+            name: .gk,
             emoji: "💡",
             color: Color.cyan.opacity(0.15)
         )

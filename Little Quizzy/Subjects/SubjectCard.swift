@@ -17,7 +17,7 @@ struct SubjectCard: View {
             VStack(spacing: 16) {
                 Text(subject.emoji)
                     .font(.system(size: 48))
-                Text(subject.name)
+                Text(subject.name.rawValue)
                     .font(.system(size: 20, weight: .bold))
                     .foregroundStyle(.primary)
             }

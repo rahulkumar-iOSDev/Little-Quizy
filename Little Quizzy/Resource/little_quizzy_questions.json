@@ -1,8 +1,8 @@
 {
     "questions": [
         {
-            "id": "math_001",
-            "subject": "math",
+            "id": "maths_001",
+            "subject": "Maths",
             "difficulty": "easy",
             "class": 1,
             "question": "What is 7 + 5?",
@@ -30,8 +30,8 @@
             ]
         },
         {
-            "id": "math_002",
-            "subject": "math",
+            "id": "maths_002",
+            "subject": "Maths",
             "difficulty": "easy",
             "class": 2,
             "question": "What is 9 - 4?",
@@ -59,8 +59,8 @@
             ]
         },
         {
-            "id": "math_003",
-            "subject": "math",
+            "id": "maths_003",
+            "subject": "Maths",
             "difficulty": "easy",
             "class": 2,
             "question": "What is 6 × 3?",
@@ -88,8 +88,8 @@
             ]
         },
         {
-            "id": "math_004",
-            "subject": "math",
+            "id": "maths_004",
+            "subject": "Maths",
             "difficulty": "easy",
             "class": 3,
             "question": "What is 24 ÷ 6?",
@@ -117,8 +117,8 @@
             ]
         },
         {
-            "id": "math_005",
-            "subject": "math",
+            "id": "maths_005",
+            "subject": "Maths",
             "difficulty": "medium",
             "class": 4,
             "question": "What is 15 + 27?",
@@ -146,8 +146,8 @@
             ]
         },
         {
-            "id": "math_006",
-            "subject": "math",
+            "id": "maths_006",
+            "subject": "Maths",
             "difficulty": "medium",
             "class": 5,
             "question": "What is 9 × 7?",
@@ -175,8 +175,8 @@
             ]
         },
         {
-            "id": "math_007",
-            "subject": "math",
+            "id": "maths_007",
+            "subject": "Maths",
             "difficulty": "medium",
             "class": 6,
             "question": "What is 25% of 80?",
@@ -204,8 +204,8 @@
             ]
         },
         {
-            "id": "math_008",
-            "subject": "math",
+            "id": "maths_008",
+            "subject": "Maths",
             "difficulty": "medium",
             "class": 7,
             "question": "What is the value of 3² + 4²?",
@@ -233,8 +233,8 @@
             ]
         },
         {
-            "id": "math_009",
-            "subject": "math",
+            "id": "maths_009",
+            "subject": "Maths",
             "difficulty": "hard",
             "class": 8,
             "question": "If x + 7 = 15, what is x?",
@@ -262,8 +262,8 @@
             ]
         },
         {
-            "id": "math_010",
-            "subject": "math",
+            "id": "maths_010",
+            "subject": "Maths",
             "difficulty": "hard",
             "class": 9,
             "question": "What is the LCM of 6 and 8?",
@@ -292,7 +292,7 @@
         },
         {
             "id": "science_001",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "easy",
             "class": 1,
             "question": "Which part of a plant is usually green?",
@@ -321,7 +321,7 @@
         },
         {
             "id": "science_002",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "easy",
             "class": 2,
             "question": "What do humans need to breathe?",
@@ -350,7 +350,7 @@
         },
         {
             "id": "science_003",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "easy",
             "class": 2,
             "question": "Which animal gives us milk?",
@@ -379,7 +379,7 @@
         },
         {
             "id": "science_004",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "easy",
             "class": 3,
             "question": "What is the main source of light for Earth?",
@@ -408,7 +408,7 @@
         },
         {
             "id": "science_005",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "medium",
             "class": 4,
             "question": "Water changes into ice when it is...",
@@ -437,7 +437,7 @@
         },
         {
             "id": "science_006",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "medium",
             "class": 5,
             "question": "Which organ pumps blood around the body?",
@@ -466,7 +466,7 @@
         },
         {
             "id": "science_007",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "medium",
             "class": 6,
             "question": "Which gas do plants mainly use during photosynthesis?",
@@ -495,7 +495,7 @@
         },
         {
             "id": "science_008",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "medium",
             "class": 7,
             "question": "What force pulls objects toward Earth?",
@@ -524,7 +524,7 @@
         },
         {
             "id": "science_009",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "hard",
             "class": 8,
             "question": "Which blood cells help fight infections?",
@@ -553,7 +553,7 @@
         },
         {
             "id": "science_010",
-            "subject": "science",
+            "subject": "Science",
             "difficulty": "hard",
             "class": 9,
             "question": "What is the process by which liquid water becomes water vapor?",
@@ -581,8 +581,8 @@
             ]
         },
         {
-            "id": "geography_001",
-            "subject": "geography",
+            "id": "social_studies_001",
+            "subject": "Social Studies",
             "difficulty": "easy",
             "class": 1,
             "question": "Which planet do we live on?",
@@ -610,8 +610,8 @@
             ]
         },
         {
-            "id": "geography_002",
-            "subject": "geography",
+            "id": "social_studies_002",
+            "subject": "Social Studies",
             "difficulty": "easy",
             "class": 2,
             "question": "What is the name of the place where land meets the sea?",
@@ -639,8 +639,8 @@
             ]
         },
         {
-            "id": "geography_003",
-            "subject": "geography",
+            "id": "social_studies_003",
+            "subject": "Social Studies",
             "difficulty": "easy",
             "class": 2,
             "question": "Which is the largest ocean?",
@@ -668,8 +668,8 @@
             ]
         },
         {
-            "id": "geography_004",
-            "subject": "geography",
+            "id": "social_studies_004",
+            "subject": "Social Studies",
             "difficulty": "easy",
             "class": 3,
             "question": "Which direction does the Sun rise from?",
@@ -697,8 +697,8 @@
             ]
         },
         {
-            "id": "geography_005",
-            "subject": "geography",
+            "id": "social_studies_005",
+            "subject": "Social Studies",
             "difficulty": "medium",
             "class": 4,
             "question": "What is the capital of India?",
@@ -726,8 +726,8 @@
             ]
         },
         {
-            "id": "geography_006",
-            "subject": "geography",
+            "id": "social_studies_006",
+            "subject": "Social Studies",
             "difficulty": "medium",
             "class": 5,
             "question": "Which is the largest continent?",
@@ -755,8 +755,8 @@
             ]
         },
         {
-            "id": "geography_007",
-            "subject": "geography",
+            "id": "social_studies_007",
+            "subject": "Social Studies",
             "difficulty": "medium",
             "class": 6,
             "question": "The Equator divides Earth into which two halves?",
@@ -784,8 +784,8 @@
             ]
         },
         {
-            "id": "geography_008",
-            "subject": "geography",
+            "id": "social_studies_008",
+            "subject": "Social Studies",
             "difficulty": "medium",
             "class": 7,
             "question": "Which layer of Earth is the outermost solid layer?",
@@ -813,8 +813,8 @@
             ]
         },
         {
-            "id": "geography_009",
-            "subject": "geography",
+            "id": "social_studies_009",
+            "subject": "Social Studies",
             "difficulty": "hard",
             "class": 8,
             "question": "Which imaginary line is at 0° longitude?",
@@ -842,8 +842,8 @@
             ]
         },
         {
-            "id": "geography_010",
-            "subject": "geography",
+            "id": "social_studies_010",
+            "subject": "Social Studies",
             "difficulty": "hard",
             "class": 9,
             "question": "Which type of rainfall occurs when moist air rises over mountains?",
@@ -871,8 +871,8 @@
             ]
         },
         {
-            "id": "reading_001",
-            "subject": "reading",
+            "id": "english_011",
+            "subject": "English",
             "difficulty": "easy",
             "class": 1,
             "question": "Which word rhymes with 'cat'?",
@@ -900,8 +900,8 @@
             ]
         },
         {
-            "id": "reading_002",
-            "subject": "reading",
+            "id": "english_012",
+            "subject": "English",
             "difficulty": "easy",
             "class": 2,
             "question": "What is the opposite of 'hot'?",
@@ -929,8 +929,8 @@
             ]
         },
         {
-            "id": "reading_003",
-            "subject": "reading",
+            "id": "english_013",
+            "subject": "English",
             "difficulty": "easy",
             "class": 2,
             "question": "Which word means the same as 'happy'?",
@@ -958,8 +958,8 @@
             ]
         },
         {
-            "id": "reading_004",
-            "subject": "reading",
+            "id": "english_014",
+            "subject": "English",
             "difficulty": "easy",
             "class": 3,
             "question": "Choose the noun: 'The dog runs fast.'",
@@ -987,8 +987,8 @@
             ]
         },
         {
-            "id": "reading_005",
-            "subject": "reading",
+            "id": "english_015",
+            "subject": "English",
             "difficulty": "medium",
             "class": 4,
             "question": "Which sentence is written in the past tense?",
@@ -1016,8 +1016,8 @@
             ]
         },
         {
-            "id": "reading_006",
-            "subject": "reading",
+            "id": "english_016",
+            "subject": "English",
             "difficulty": "medium",
             "class": 5,
             "question": "What is the main idea of a paragraph?",
@@ -1045,8 +1045,8 @@
             ]
         },
         {
-            "id": "reading_007",
-            "subject": "reading",
+            "id": "english_017",
+            "subject": "English",
             "difficulty": "medium",
             "class": 6,
             "question": "Which punctuation mark ends a question?",
@@ -1074,8 +1074,8 @@
             ]
         },
         {
-            "id": "reading_008",
-            "subject": "reading",
+            "id": "english_018",
+            "subject": "English",
             "difficulty": "medium",
             "class": 7,
             "question": "What does the word 'ancient' mean?",
@@ -1103,8 +1103,8 @@
             ]
         },
         {
-            "id": "reading_009",
-            "subject": "reading",
+            "id": "english_019",
+            "subject": "English",
             "difficulty": "hard",
             "class": 8,
             "question": "What is a metaphor?",
@@ -1132,8 +1132,8 @@
             ]
         },
         {
-            "id": "reading_010",
-            "subject": "reading",
+            "id": "english_020",
+            "subject": "English",
             "difficulty": "hard",
             "class": 9,
             "question": "Which point of view uses 'I' and 'we'?",
@@ -1162,7 +1162,7 @@
         },
         {
             "id": "english_001",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "easy",
             "class": 1,
             "question": "Which letter comes after B?",
@@ -1191,7 +1191,7 @@
         },
         {
             "id": "english_002",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "easy",
             "class": 2,
             "question": "Which word is a color?",
@@ -1220,7 +1220,7 @@
         },
         {
             "id": "english_003",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "easy",
             "class": 2,
             "question": "Choose the correct article: ___ apple.",
@@ -1249,7 +1249,7 @@
         },
         {
             "id": "english_004",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "easy",
             "class": 3,
             "question": "What is the plural of 'child'?",
@@ -1278,7 +1278,7 @@
         },
         {
             "id": "english_005",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "medium",
             "class": 4,
             "question": "Which word is an adjective in 'The tall boy smiled'?",
@@ -1307,7 +1307,7 @@
         },
         {
             "id": "english_006",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "medium",
             "class": 5,
             "question": "Choose the correct spelling.",
@@ -1336,7 +1336,7 @@
         },
         {
             "id": "english_007",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "medium",
             "class": 6,
             "question": "What is the past tense of 'go'?",
@@ -1365,7 +1365,7 @@
         },
         {
             "id": "english_008",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "medium",
             "class": 7,
             "question": "Which word is a synonym for 'quick'?",
@@ -1394,7 +1394,7 @@
         },
         {
             "id": "english_009",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "hard",
             "class": 8,
             "question": "Which sentence uses a conjunction correctly?",
@@ -1423,7 +1423,7 @@
         },
         {
             "id": "english_010",
-            "subject": "english",
+            "subject": "English",
             "difficulty": "hard",
             "class": 9,
             "question": "Which word is an adverb in 'She sang beautifully'?",
@@ -1447,6 +1447,586 @@
                     "id": "d",
                     "text": "None",
                     "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_001",
+            "subject": "Hindi",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "'अ' के बाद कौन सा स्वर आता है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "इ",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "आ",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "ई",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "उ",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_002",
+            "subject": "Hindi",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "'जल' का पर्यायवाची शब्द कौन सा है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "आग",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "हवा",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "नीर",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "धरती",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_003",
+            "subject": "Hindi",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "'दिन' का विलोम शब्द क्या है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "रात",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "सुबह",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "शाम",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "दोपहर",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_004",
+            "subject": "Hindi",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "इनमें से संज्ञा शब्द कौन सा है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "दौड़ना",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "सुंदर",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "वह",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "मोहन",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": "hindi_005",
+            "subject": "Hindi",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "इनमें से कौन सा शब्द क्रिया है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "मेज़",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "पढ़ना",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "लाल",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "हम",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_006",
+            "subject": "Hindi",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "'विद्यालय' शब्द में कौन सी संधि है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "गुण संधि",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "यण संधि",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "दीर्घ संधि",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "वृद्धि संधि",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_007",
+            "subject": "Hindi",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "'राम ने आम खाया' वाक्य में 'ने' किस कारक का चिह्न है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "कर्म कारक",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "कर्ता कारक",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "करण कारक",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "संबंध कारक",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_008",
+            "subject": "Hindi",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "'आँख का तारा' मुहावरे का अर्थ क्या है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "बहुत प्यारा",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "अंधा होना",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "गुस्सा होना",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "तारे देखना",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "hindi_009",
+            "subject": "Hindi",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "'माता-पिता' शब्द में कौन सा समास है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "तत्पुरुष",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "अव्ययीभाव",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "बहुव्रीहि",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "द्वंद्व",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": "hindi_010",
+            "subject": "Hindi",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "'तेरा मुख चंद्रमा के समान सुंदर है' पंक्ति में कौन सा अलंकार है?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "रूपक",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "उपमा",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "अनुप्रास",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "यमक",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_001",
+            "subject": "GK",
+            "difficulty": "easy",
+            "class": 1,
+            "question": "How many days are there in a week?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "6",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "7",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "8",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_002",
+            "subject": "GK",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "Which animal is known as the King of the Jungle?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Tiger",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Lion",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Elephant",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Bear",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_003",
+            "subject": "GK",
+            "difficulty": "easy",
+            "class": 2,
+            "question": "What is the national flower of India?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Rose",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Marigold",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Sunflower",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Lotus",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": "gk_004",
+            "subject": "GK",
+            "difficulty": "easy",
+            "class": 3,
+            "question": "What is the national bird of India?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Peacock",
+                    "isAnswer": true
+                },
+                {
+                    "id": "b",
+                    "text": "Sparrow",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Parrot",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Crow",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_005",
+            "subject": "GK",
+            "difficulty": "medium",
+            "class": 4,
+            "question": "Who was the first Prime Minister of India?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Mahatma Gandhi",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Sardar Vallabhbhai Patel",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Jawaharlal Nehru",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Dr. B. R. Ambedkar",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_006",
+            "subject": "GK",
+            "difficulty": "medium",
+            "class": 5,
+            "question": "Which city is known as the 'Pink City' of India?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Jodhpur",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Udaipur",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Jaisalmer",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Jaipur",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": "gk_007",
+            "subject": "GK",
+            "difficulty": "medium",
+            "class": 6,
+            "question": "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Bankim Chandra Chatterjee",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Rabindranath Tagore",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Sarojini Naidu",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Subramania Bharati",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_008",
+            "subject": "GK",
+            "difficulty": "medium",
+            "class": 7,
+            "question": "Which is the largest Indian state by area?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Madhya Pradesh",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Rajasthan",
+                    "isAnswer": true
+                },
+                {
+                    "id": "c",
+                    "text": "Maharashtra",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Uttar Pradesh",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_009",
+            "subject": "GK",
+            "difficulty": "hard",
+            "class": 8,
+            "question": "Who was the first Indian-born woman to travel to space?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Sunita Williams",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "Tessy Thomas",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Kalpana Chawla",
+                    "isAnswer": true
+                },
+                {
+                    "id": "d",
+                    "text": "Mary Kom",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": "gk_010",
+            "subject": "GK",
+            "difficulty": "hard",
+            "class": 9,
+            "question": "Which is the smallest country in the world by area?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Monaco",
+                    "isAnswer": false
+                },
+                {
+                    "id": "b",
+                    "text": "San Marino",
+                    "isAnswer": false
+                },
+                {
+                    "id": "c",
+                    "text": "Malta",
+                    "isAnswer": false
+                },
+                {
+                    "id": "d",
+                    "text": "Vatican City",
+                    "isAnswer": true
                 }
             ]
         }

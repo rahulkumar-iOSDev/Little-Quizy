@@ -10,8 +10,11 @@ import SwiftUI
 struct RootView: View {
     @AppStorage(AppStorageKey.hasCompletedOnboarding)
     private var hasCompletedOnboarding = false
-    
+
+    @State private var router = Router()
+
     var body: some View {
+
         Group {
             if hasCompletedOnboarding {
                 QuizTabView()
@@ -19,5 +22,6 @@ struct RootView: View {
                 LetsLearnView()
             }
         }
+        .environment(router)
     }
 }

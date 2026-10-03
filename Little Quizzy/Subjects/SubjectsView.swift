@@ -10,6 +10,7 @@ import SwiftUI
 struct SubjectsView: View {
     @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""
     @State private var viewModel = SubjectsViewModel()
+    @Environment(Router.self) private var router
     
     let columns = [
         GridItem(.flexible(), spacing: 24),
@@ -34,6 +35,9 @@ struct SubjectsView: View {
             LazyVGrid(columns: columns) {
                 ForEach(viewModel.subjects) { subject in
                     SubjectCard(subject: subject)
+                        .onTapGesture {
+                            router.subject.push(.subjectQuizView(subject.name, subject.name.title))
+                        }
                 }
             }
             .padding(.top, 20)

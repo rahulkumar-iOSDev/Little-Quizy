@@ -8,24 +8,43 @@
 import SwiftUI
 
 struct QuizTabView: View {
+    @Environment(Router.self) private var router
+
     var body: some View {
+        @Bindable var router = router
         TabView {
-            SubjectsView()
-                .tabItem {
-                    Label("Subjects", systemImage: "book.fill")
-                }
-            RandomView()
-                .tabItem {
-                    Label("Random", systemImage: "dice.fill")
-                }
-            ProfileView()
-                .tabItem {
-                    Label("Profile", systemImage: "person.crop.circle")
-                }
+            NavigationStack(path: $router.subject.routes) {
+                SubjectsView()
+                    .navigationDestination(for: SubjectRoute.self) { route in
+                        SubjectRouteView(route: route)
+                    }
+            }
+            .tabItem {
+                Label("Subjects",systemImage: "book.fill")
+            }
+            
+            NavigationStack(path: $router.random.routes) {
+                RandomView()
+                    .navigationDestination(for: RandomRoute.self) { route in
+                        RandomRouteView(route: route)
+                    }
+            }
+            .tabItem {
+                Label("Random", systemImage: "dice.fill")
+            }
+
+            NavigationStack(path: $router.profile.routes) {
+                ProfileView()
+                    .navigationDestination(for: ProfileRoute.self) { route in
+                        ProfileRouteView(route: route)
+                    }
+            }
+            .tabItem {
+                Label("Profile", systemImage: "person.crop.circle")
+            }
         }
     }
 }
-
 #Preview {
     QuizTabView()
 }

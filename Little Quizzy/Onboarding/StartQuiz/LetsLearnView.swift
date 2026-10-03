@@ -8,9 +8,11 @@
 import SwiftUI
 
 struct LetsLearnView: View {
-    @EnvironmentObject private var router: NavigationRouter
+    @Environment(Router.self) private var router
+    
     var body: some View {
-        NavigationStack(path: $router.onboardingRoute) {
+        @Bindable var router = router
+        NavigationStack(path: $router.onboarding.routes) {
             VStack(spacing: 0) {
                 VStack {
                     Text("Little")
@@ -35,7 +37,7 @@ struct LetsLearnView: View {
                             .font(.system(size: 120))
                     }
                     Button {
-                        router.push(to: .startQuiz)
+                        router.onboarding.push(.startQuiz)
                     } label: {
                         Text("Let's Learn →")
                     }
@@ -44,14 +46,28 @@ struct LetsLearnView: View {
                 }
             }
             .appScreenStyle()
-            .navigationDestination(for: OnboardingRoute.self, destination: { $0 })
+            .navigationDestination(for: OnboardingRoute.self) { route in
+                OnboardingRouteView(route: route)
+            }
         }
-        
     }
 }
 
 #Preview {
-    @Previewable @StateObject var navigationRouter = NavigationRouter()
+    @Previewable @State var router = Router()
     LetsLearnView()
-        .environmentObject(navigationRouter)
+        .environment(router)
+}
+
+
+struct EditProfileView: View {
+    var body: some View {
+        Text("Edit Profile")
+    }
+}
+
+struct ScoreView: View {
+    var body: some View {
+        Text("Score View")
+    }
 }

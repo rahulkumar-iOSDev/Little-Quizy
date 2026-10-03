@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct RandomView: View {
+    @Environment(Router.self) private var router
+    
     var body: some View {
         VStack {
             Text("🎲")
@@ -34,17 +36,17 @@ struct RandomView: View {
             }
             .font(.system(size: 52))
             Button {
-                
+                router.random.push(.randomQuiz("Random Quiz"))
             } label: {
-                 Text("Start Random Quiz →")
+                Text("Start Random Quiz →")
             }
             .buttonStyle(PrimaryButtonStyle())
             .padding(.vertical, 10)
             Spacer()
         }
         .appScreenStyle()
-
     }
+    
 }
 
 #Preview {
