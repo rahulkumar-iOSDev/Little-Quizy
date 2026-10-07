@@ -37,7 +37,7 @@ struct SubjectRouteView: View {
     }
 }
 
-// MARK: - Subject Tab Route
+// MARK: - Random Tab Route
 enum RandomRoute: Hashable {
     case randomQuiz(String)
 }
@@ -52,7 +52,7 @@ struct RandomRouteView: View {
     }
 }
 
-// MARK: - Subject Tab Route
+// MARK: - Profile Tab Route
 enum ProfileRoute: Hashable {
     case editProfile
 }

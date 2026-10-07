@@ -10,7 +10,7 @@ import SwiftUI
 struct SubjectsView: View {
     @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""
     @State private var viewModel = SubjectsViewModel()
-    @Environment(Router.self) private var router
+    @Environment(AppRouter.self) private var router
     
     let columns = [
         GridItem(.flexible(), spacing: 24),

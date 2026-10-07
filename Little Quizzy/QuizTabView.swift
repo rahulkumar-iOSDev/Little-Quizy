@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct QuizTabView: View {
-    @Environment(Router.self) private var router
+    @Environment(AppRouter.self) private var router
 
     var body: some View {
         @Bindable var router = router

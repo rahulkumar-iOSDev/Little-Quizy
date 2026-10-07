@@ -8,7 +8,6 @@
 import UIKit
 
 enum ScreenUtility {
-
     static var size: CGSize {
         UIApplication.shared.connectedScenes
             .compactMap { $0 as? UIWindowScene }

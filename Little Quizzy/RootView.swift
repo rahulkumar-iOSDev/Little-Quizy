@@ -11,7 +11,7 @@ struct RootView: View {
     @AppStorage(AppStorageKey.hasCompletedOnboarding)
     private var hasCompletedOnboarding = false
 
-    @State private var router = Router()
+    @State private var router = AppRouter()
 
     var body: some View {
 

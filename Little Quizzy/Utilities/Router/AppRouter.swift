@@ -10,7 +10,7 @@ import Observation
 
 @MainActor
 @Observable
-final class Router {
+final class AppRouter {
     var onboarding = RouteStack<OnboardingRoute>()
     var subject = RouteStack<SubjectRoute>()
     var random = RouteStack<RandomRoute>()

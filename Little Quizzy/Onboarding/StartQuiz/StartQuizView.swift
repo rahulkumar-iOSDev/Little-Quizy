@@ -10,7 +10,7 @@ import SwiftUI
 struct StartQuizView: View {
     @State private var name: String = ""
     @State private var selectedClass = 6
-    @Environment(Router.self) private var router
+    @Environment(AppRouter.self) private var router
     
     @AppStorage(AppStorageKey.hasCompletedOnboarding) private var hasCompletedOnboarding = false
     @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""

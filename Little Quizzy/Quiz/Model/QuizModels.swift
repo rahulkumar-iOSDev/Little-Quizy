@@ -1,5 +1,5 @@
 //
-//  QuizResponse.swift
+//  QuizModels.swift
 //  Little Quizzy
 //
 //  Created by Rahul Kumar on 29/09/26.
@@ -32,7 +32,6 @@ struct Option: Codable, Identifiable, Hashable {
     let id: String
     let text: String
     let isAnswer: Bool
-    var isAnswered: Bool = false          // runtime state, not in JSON
 
     private enum CodingKeys: String, CodingKey {
         case id, text, isAnswer
@@ -46,6 +45,7 @@ struct Question: Codable, Identifiable, Hashable {
     let classLevel: Int
     let question: String
     var options: [Option]
+    var isAnswered: Bool = false          // runtime state, not in JSON
 
     private enum CodingKeys: String, CodingKey {
         case id, subject, difficulty, question, options

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LetsLearnView: View {
-    @Environment(Router.self) private var router
+    @Environment(AppRouter.self) private var router
     
     var body: some View {
         @Bindable var router = router
@@ -54,7 +54,7 @@ struct LetsLearnView: View {
 }
 
 #Preview {
-    @Previewable @State var router = Router()
+    @Previewable @State var router = AppRouter()
     LetsLearnView()
         .environment(router)
 }
