@@ -1,0 +1,9004 @@
+{
+  "questions": [
+    {
+      "id": "social_studies_c3_039",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is a renewable resource?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Petrol",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_028",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'गाय' का पुल्लिंग क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "भैंस",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "बैल",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "घोड़ा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "बकरी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_043",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 9 × 4? Practice variation 43",
+      "options": [
+        {
+          "id": "a",
+          "text": "35",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "37",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "46",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "36",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_022",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Who wrote the Indian national anthem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sarojini Naidu",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Subramania Bharati",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Bankim Chandra Chatterjee",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rabindranath Tagore",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_006",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which part of a plant makes seeds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stem",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Flower",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Bark",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Root",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_020",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 14 × 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "69",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "70",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "80",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_002",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which gas do plants use during photosynthesis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helium",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen only",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Carbon dioxide",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Oxygen",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_027",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'घर' का बहुवचन क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "घरे",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "घरें",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "घरों",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "घर",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_030",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'और' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "समुच्चयबोधक",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_027",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct conjunction: I wanted tea ___ milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "and",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "but",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "or",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "because",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_044",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which planet is largest in our solar system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Jupiter",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Neptune",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Saturn",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_021",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 24 ÷ 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "5",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "3",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_025",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the synonym of 'happy'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "angry",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "slow",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "joyful",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "sad",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_039",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'धीरे-धीरे' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क्रिया-विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "संज्ञा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_028",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct comparative form of 'tall'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "more tall",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "taller",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "talling",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "tallest",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_030",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a timeline used to show?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only temperatures",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Only populations",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Only distances",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Events in chronological order",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_034",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the adverb: She sings ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "singer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "beautiful",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "beautifully",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "beauty",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_049",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is reading a book.",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "She reading book.",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "She readed a book.",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "She are read book.",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_024",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is a historical source?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modern traffic light",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Plastic bottle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Old inscription",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Newspaper advertisement",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_048",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct comparative form of 'tall'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "more tall",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "talling",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "taller",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "tallest",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_041",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is the national animal of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elephant",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bengal tiger",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Leopard",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_043",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prime Meridian",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Tropic of Cancer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Arctic Circle",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Equator",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_001",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is the national animal of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Elephant",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Bengal tiger",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Leopard",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_017",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which of these is a renewable source of energy? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Petrol",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sunlight",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_013",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 7 × 11?",
+      "options": [
+        {
+          "id": "a",
+          "text": "76",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "78",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "87",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "77",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_029",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which simple machine is a seesaw? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wheel and axle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lever",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Pulley",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Screw",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_046",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the antonym of 'early'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "soon",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "late",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "quick",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "first",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_047",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which of these is a renewable source of energy? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Petrol",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_038",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which organ pumps blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Kidney",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Lungs",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_015",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the synonym of 'happy'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "angry",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "slow",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "joyful",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "sad",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_019",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "New Delhi",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Chennai",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_014",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is a historical source?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Old inscription",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Newspaper advertisement",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Plastic bottle",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Modern traffic light",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_049",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "Which is a renewable resource?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Petrol",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sunlight",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_021",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "New Delhi",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Kolkata",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_032",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'सुख' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आनंद",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "दुःख",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "शांति",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "हँसी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_039",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 99 ÷ 11?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_030",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 42 ÷ 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_023",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the highest mountain above sea level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "K2",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Kangchenjunga",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Nanda Devi",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Mount Everest",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_029",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'धीरे-धीरे' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "क्रिया-विशेषण",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_032",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the proper noun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "India",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "country",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "river",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "city",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_018",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What do we call animals that eat only plants? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Herbivores",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Carnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Decomposers",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_006",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 11 × 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "87",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "76",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "78",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "77",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_049",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "New Delhi",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_034",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which material is a good conductor of electricity? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Rubber",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Wood",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Copper",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_033",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 96 ÷ 12?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_012",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which gas do plants use during photosynthesis? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen only",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Helium",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Oxygen",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_014",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which material is a good conductor of electricity? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Rubber",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Wood",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_023",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'पुस्तक' का सरल पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "किताब",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "मेज",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "कलम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "कागज",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_019",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 12 × 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "82",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "72",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_016",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Aluminium",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mercury",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Iron",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_042",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 8 × 7? Practice variation 42",
+      "options": [
+        {
+          "id": "a",
+          "text": "55",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "66",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "56",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "57",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_025",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is water changing into vapour called? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Evaporation",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Freezing",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Condensation",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Melting",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_003",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct past tense of 'go'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "going",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "went",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "goes",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "goed",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_016",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which part of a plant makes seeds? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Flower",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Bark",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Stem",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_014",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 5 × 14?",
+      "options": [
+        {
+          "id": "a",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "80",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "70",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "69",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_004",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is a historical source?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modern traffic light",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Old inscription",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Plastic bottle",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Newspaper advertisement",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_027",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which of these is a renewable source of energy? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Petrol",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_023",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equator",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Arctic Circle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Prime Meridian",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Tropic of Cancer",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_028",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What do we call animals that eat only plants? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Carnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Herbivores",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Decomposers",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_032",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Who wrote the Indian national anthem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sarojini Naidu",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Rabindranath Tagore",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Subramania Bharati",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Bankim Chandra Chatterjee",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_004",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which material is a good conductor of electricity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rubber",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Wood",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Copper",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_017",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the fastest land animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Cheetah",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Leopard",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_006",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the antonym of 'early'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "late",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "first",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "soon",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "quick",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_035",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What does a compass help us find?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Directions",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Age",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_008",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What do we call animals that eat only plants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Herbivores",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Decomposers",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Omnivores",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_041",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "New Delhi",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_034",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which planet is largest in our solar system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Jupiter",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Saturn",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Neptune",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_020",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the largest desert in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thar Desert",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Kalahari Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Gobi Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sahara Desert",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_013",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What force pulls objects toward Earth? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gravity",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Magnetism",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sound",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Friction",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_035",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "How many players are on a cricket team on the field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_050",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "Why do shadows form? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Air disappears",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Light is blocked",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Sound is blocked",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Water freezes",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_007",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which of these is a renewable source of energy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Petrol",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_036",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'मीठा आम' में विशेषण क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "का",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "में",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "मीठा",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_041",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the common noun: The teacher reads a book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "teacher",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "the",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "reads",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_006",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'मीठा आम' में विशेषण क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "मीठा",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "में",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "का",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_026",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 72 ÷ 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_035",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 90 ÷ 10?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_041",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which organ pumps blood around the body? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Stomach",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lungs",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_029",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 54 ÷ 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_046",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mercury",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Iron",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Copper",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Aluminium",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_024",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'लड़का खेलता है।' में कर्ता कौन है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "कोई नहीं",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "लड़का",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "है",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "खेलता है",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_018",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct comparative form of 'tall'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "taller",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "tallest",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "talling",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "more tall",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_018",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 11 × 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "98",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "88",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "87",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "89",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_036",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 66 ÷ 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_023",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 45 ÷ 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "9",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_050",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "'और' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "समुच्चयबोधक",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_020",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'और' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "समुच्चयबोधक",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_033",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'पुस्तक' का सरल पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "किताब",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "मेज",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "कलम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "कागज",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_037",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'घर' का बहुवचन क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "घरों",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "घरे",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "घर",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "घरें",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_021",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'आकाश' का पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "वन",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सागर",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "धरती",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "नभ",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_009",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is a renewable resource?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Petrol",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Natural gas",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_033",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What force pulls objects toward Earth? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sound",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Friction",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Magnetism",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Gravity",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_038",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What do we call animals that eat only plants? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decomposers",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Carnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Omnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Herbivores",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_019",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is a renewable resource?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Petrol",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Coal",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_032",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 35 ÷ 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_012",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'सुख' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आनंद",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "दुःख",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "हँसी",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "शांति",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_011",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 6 × 12?",
+      "options": [
+        {
+          "id": "a",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "72",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "82",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_009",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which simple machine is a seesaw?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Screw",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Pulley",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Lever",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Wheel and axle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_048",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 7 × 9? Practice variation 48",
+      "options": [
+        {
+          "id": "a",
+          "text": "64",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "63",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "62",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_003",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tropic of Cancer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Equator",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Prime Meridian",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Arctic Circle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_028",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 48 ÷ 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_009",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'धीरे-धीरे' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "क्रिया-विशेषण",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_001",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the common noun: The teacher reads a book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "reads",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "teacher",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "a",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_039",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She readed a book.",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "She are read book.",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "She reading book.",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "She is reading a book.",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_049",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "Which simple machine is a seesaw? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Screw",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lever",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Pulley",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Wheel and axle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_015",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'मोहन ने आम खाया।' में क्रिया क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "मोहन",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "खाया",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "ने",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_010",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the largest desert in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gobi Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Sahara Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Kalahari Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Thar Desert",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_033",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the highest mountain above sea level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mount Everest",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "K2",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Nanda Devi",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Kangchenjunga",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_008",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which organ pumps blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kidney",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Lungs",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Brain",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_013",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct past tense of 'go'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "goes",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "goed",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "went",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "going",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_037",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct conjunction: I wanted tea ___ milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "and",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "because",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "or",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "but",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_050",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "What is a group of words with a subject and verb called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A letter",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A sound",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A syllable",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A sentence",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_024",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 56 ÷ 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_016",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the antonym of 'early'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "soon",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "quick",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "late",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "first",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_004",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which planet is largest in our solar system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Saturn",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jupiter",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Neptune",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_036",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mercury",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Aluminium",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Copper",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Iron",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_014",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which planet is largest in our solar system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neptune",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Earth",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Saturn",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Jupiter",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_027",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a desert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A river valley only",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A dense city",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A very dry region",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "A frozen ocean",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_036",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the antonym of 'early'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "quick",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "late",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "soon",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "first",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_035",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'मोहन ने आम खाया।' में क्रिया क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "मोहन",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "ने",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "खाया",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_045",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What does a compass help us find?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Age",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Directions",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Weight",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_023",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What force pulls objects toward Earth? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Friction",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Magnetism",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Gravity",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Sound",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_010",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Why do shadows form?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sound is blocked",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Light is blocked",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Air disappears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Water freezes",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_002",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the largest continent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Africa",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Europe",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Australia",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Asia",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_045",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the synonym of 'happy'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sad",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "joyful",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "angry",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "slow",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_031",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the common noun: The teacher reads a book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "reads",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "the",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "teacher",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_042",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Who wrote the Indian national anthem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subramania Bharati",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bankim Chandra Chatterjee",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sarojini Naidu",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rabindranath Tagore",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_011",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'आकाश' का पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "धरती",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सागर",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "नभ",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "वन",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_007",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'घर' का बहुवचन क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "घर",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "घरों",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "घरें",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "घरे",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_029",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "New Delhi",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_038",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct comparative form of 'tall'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "talling",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "tallest",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "taller",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "more tall",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_005",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the synonym of 'happy'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sad",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "slow",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "angry",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "joyful",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_030",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a group of words with a subject and verb called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A sound",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A letter",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A syllable",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A sentence",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_003",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the highest mountain above sea level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kangchenjunga",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mount Everest",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "K2",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Nanda Devi",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_038",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Why are rivers important to settlements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They create deserts",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "They remove all soil",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "They stop all travel",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "They provide water and support activities",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_049",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "'धीरे-धीरे' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "क्रिया-विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "संज्ञा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_040",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a timeline used to show?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only populations",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Only distances",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Only temperatures",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Events in chronological order",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_030",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the largest desert in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thar Desert",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Gobi Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Kalahari Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sahara Desert",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_041",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'आकाश' का पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "नभ",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "धरती",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सागर",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "वन",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_019",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which simple machine is a seesaw? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Screw",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Wheel and axle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Lever",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Pulley",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_038",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 88 ÷ 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_005",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "How many players are on a cricket team on the field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_011",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is the national animal of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elephant",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bengal tiger",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Leopard",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lion",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_017",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 9 × 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "64",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "63",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "62",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_025",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'मोहन ने आम खाया।' में क्रिया क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ने",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "खाया",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "मोहन",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_007",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct conjunction: I wanted tea ___ milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "but",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "because",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "and",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "or",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_004",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the adverb: She sings ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "singer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "beauty",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "beautiful",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "beautifully",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_001",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'आकाश' का पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सागर",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "वन",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "नभ",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "धरती",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_033",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct past tense of 'go'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "goes",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "went",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "goed",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "going",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_038",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'गाय' का पुल्लिंग क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "भैंस",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "बैल",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "घोड़ा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "बकरी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_008",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'गाय' का पुल्लिंग क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "घोड़ा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "भैंस",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "बैल",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "बकरी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_044",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 6 × 8? Practice variation 44",
+      "options": [
+        {
+          "id": "a",
+          "text": "47",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "48",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "49",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "58",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_032",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which gas do plants use during photosynthesis? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helium",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Oxygen",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen only",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Carbon dioxide",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_006",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Copper",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mercury",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Aluminium",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_005",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 12 × 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "61",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "59",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "70",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "60",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_010",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'और' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "समुच्चयबोधक",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_002",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Who wrote the Indian national anthem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabindranath Tagore",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Bankim Chandra Chatterjee",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sarojini Naidu",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Subramania Bharati",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_025",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What does a compass help us find?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Age",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Directions",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Weight",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_005",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'मोहन ने आम खाया।' में क्रिया क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ने",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "मोहन",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "खाया",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "आम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_031",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which organ pumps blood around the body? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Stomach",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lungs",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_016",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 4 × 16?",
+      "options": [
+        {
+          "id": "a",
+          "text": "74",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "63",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "64",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "65",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_013",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'पुस्तक' का सरल पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "किताब",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "कलम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "मेज",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "कागज",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_036",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which landform is high and steep?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mountain",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Coast",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Plain",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_040",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'और' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "समुच्चयबोधक",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_047",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the fastest land animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cheetah",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Leopard",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lion",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_022",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 36 ÷ 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_034",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 84 ÷ 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_017",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'घर' का बहुवचन क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "घरे",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "घर",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "घरें",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "घरों",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_027",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the fastest land animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cheetah",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Leopard",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Horse",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_007",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is a desert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A dense city",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A frozen ocean",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A river valley only",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A very dry region",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_034",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is a historical source?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Newspaper advertisement",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Plastic bottle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Modern traffic light",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Old inscription",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_004",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'लड़का खेलता है।' में कर्ता कौन है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "खेलता है",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "लड़का",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "है",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "कोई नहीं",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_010",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 15 × 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "70",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "61",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "60",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "59",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_026",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Iron",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mercury",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Aluminium",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_040",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a group of words with a subject and verb called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A sentence",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "A sound",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A syllable",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A letter",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_043",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the highest mountain above sea level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kangchenjunga",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Nanda Devi",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mount Everest",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "K2",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_022",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the proper noun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "India",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "city",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "country",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "river",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_045",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 12 × 5? Practice variation 45",
+      "options": [
+        {
+          "id": "a",
+          "text": "61",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "59",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "60",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "70",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_045",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'मोहन ने आम खाया।' में क्रिया क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "ने",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "खाया",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "मोहन",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_017",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct conjunction: I wanted tea ___ milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "or",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "and",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "but",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_012",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the largest continent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Asia",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Europe",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Australia",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Africa",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_050",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "What is a timeline used to show?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only distances",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Events in chronological order",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Only temperatures",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Only populations",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_021",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the common noun: The teacher reads a book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "teacher",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "reads",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "the",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_008",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 7 × 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "63",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "64",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "62",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_047",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct conjunction: I wanted tea ___ milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "and",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "or",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "but",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_015",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 13 × 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "77",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "78",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "79",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "88",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_011",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "New Delhi",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_046",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which landform is high and steep?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Plain",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mountain",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Coast",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_003",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'पुस्तक' का सरल पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "किताब",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "मेज",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "कागज",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "कलम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_031",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "New Delhi",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Kolkata",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_029",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is a renewable resource?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Petrol",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Natural gas",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Coal",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_012",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 8 × 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "82",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "72",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_002",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the proper noun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "city",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "river",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "country",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "India",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_023",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct past tense of 'go'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "going",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "went",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "goed",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "goes",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_015",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What does a compass help us find?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Age",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Directions",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_025",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "How many players are on a cricket team on the field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_028",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which organ pumps blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lungs",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Kidney",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_009",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 12 × 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "96",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "95",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "97",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "106",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_020",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Why do shadows form? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sound is blocked",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Light is blocked",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Water freezes",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Air disappears",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_006",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which landform is high and steep?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plain",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mountain",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Coast",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Valley",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_004",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 6 × 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "58",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "49",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "47",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "48",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_029",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She are read book.",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "She is reading a book.",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "She readed a book.",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "She reading book.",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_021",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is the national animal of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elephant",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Leopard",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Bengal tiger",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_045",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is water changing into vapour called? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Evaporation",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Freezing",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Condensation",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Melting",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_025",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 63 ÷ 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_031",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is the national animal of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bengal tiger",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Leopard",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Elephant",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_030",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Why do shadows form? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Air disappears",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Water freezes",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Light is blocked",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Sound is blocked",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_001",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "New Delhi",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Chennai",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_037",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the fastest land animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leopard",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Cheetah",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_050",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "What is 15 × 4? Practice variation 50",
+      "options": [
+        {
+          "id": "a",
+          "text": "70",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "59",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "60",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "61",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_048",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which organ pumps blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lungs",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Kidney",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Brain",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_043",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What force pulls objects toward Earth? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gravity",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Friction",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sound",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Magnetism",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_046",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'मीठा आम' में विशेषण क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "मीठा",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "का",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "में",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "आम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_001",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which organ pumps blood around the body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lungs",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Stomach",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Brain",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_003",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 9 × 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "35",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "46",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "36",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "37",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_042",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the largest continent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Europe",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Australia",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Asia",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Africa",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_034",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'लड़का खेलता है।' में कर्ता कौन है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "कोई नहीं",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "लड़का",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "है",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "खेलता है",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_046",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which part of a plant makes seeds? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bark",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Stem",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Flower",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_048",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What do we call animals that eat only plants? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Carnivores",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Decomposers",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Herbivores",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_049",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "What is 12 × 8? Practice variation 49",
+      "options": [
+        {
+          "id": "a",
+          "text": "106",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "95",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "97",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "96",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_047",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'घर' का बहुवचन क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "घरें",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "घर",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "घरों",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "घरे",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_008",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Why are rivers important to settlements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They provide water and support activities",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "They create deserts",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "They stop all travel",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "They remove all soil",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_005",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is water changing into vapour called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freezing",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Melting",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Condensation",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Evaporation",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_009",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She readed a book.",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "She are read book.",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "She is reading a book.",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "She reading book.",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_037",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a desert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A frozen ocean",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A river valley only",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A very dry region",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "A dense city",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_039",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which simple machine is a seesaw? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lever",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Pulley",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Screw",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Wheel and axle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_022",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the largest continent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Europe",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Australia",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Asia",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Africa",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_013",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the highest mountain above sea level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "K2",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mount Everest",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Kangchenjunga",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Nanda Devi",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_020",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is a group of words with a subject and verb called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A letter",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A syllable",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A sentence",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "A sound",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_019",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'धीरे-धीरे' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया-विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_044",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which material is a good conductor of electricity? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wood",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Rubber",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Copper",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_022",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'सुख' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आनंद",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "दुःख",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "शांति",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "हँसी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_007",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 9 × 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "72",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "82",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_046",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 11 × 7? Practice variation 46",
+      "options": [
+        {
+          "id": "a",
+          "text": "76",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "77",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "78",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "87",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_040",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Why do shadows form? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Light is blocked",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Sound is blocked",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Air disappears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Water freezes",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_017",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is a desert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A very dry region",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "A dense city",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A frozen ocean",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A river valley only",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_048",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'गाय' का पुल्लिंग क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "बैल",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "भैंस",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "घोड़ा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "बकरी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_031",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'आकाश' का पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "नभ",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "वन",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सागर",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "धरती",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_043",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the correct past tense of 'go'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "went",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "goes",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "goed",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "going",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_031",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 64 ÷ 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_026",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which landform is high and steep?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mountain",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Coast",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Plain",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_045",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "How many players are on a cricket team on the field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_015",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "How many players are on a cricket team on the field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_028",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Why are rivers important to settlements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They remove all soil",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "They create deserts",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "They provide water and support activities",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "They stop all travel",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_026",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the antonym of 'early'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "soon",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "first",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "quick",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "late",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_014",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the adverb: She sings ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "beautiful",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "singer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "beauty",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "beautifully",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_050",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "hard",
+      "class": 3,
+      "question": "Which is the largest desert in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gobi Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Kalahari Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sahara Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Thar Desert",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_012",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the proper noun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "city",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "country",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "river",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "India",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_016",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'मीठा आम' में विशेषण क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "का",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "में",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "मीठा",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_037",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 77 ÷ 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_033",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tropic of Cancer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Equator",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Prime Meridian",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Arctic Circle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_022",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which gas do plants use during photosynthesis? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitrogen only",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Oxygen",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Helium",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Carbon dioxide",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_014",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'लड़का खेलता है।' में कर्ता कौन है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "लड़का",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "है",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "कोई नहीं",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "खेलता है",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_009",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "New Delhi",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Kolkata",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_024",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which planet is largest in our solar system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Neptune",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jupiter",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Saturn",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_036",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which part of a plant makes seeds? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bark",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Stem",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Flower",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_010",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is a group of words with a subject and verb called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A sentence",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "A syllable",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A sound",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A letter",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_041",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 7 × 6? Practice variation 41",
+      "options": [
+        {
+          "id": "a",
+          "text": "42",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "52",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "41",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "43",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_013",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equator",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Tropic of Cancer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Prime Meridian",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Arctic Circle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_010",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is a timeline used to show?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only populations",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Events in chronological order",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Only temperatures",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Only distances",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_032",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the largest continent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Europe",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Asia",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Africa",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Australia",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_040",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is the largest desert in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kalahari Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Sahara Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Thar Desert",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Gobi Desert",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_048",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Why are rivers important to settlements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They stop all travel",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "They remove all soil",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "They create deserts",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "They provide water and support activities",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_044",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which is a historical source?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modern traffic light",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Plastic bottle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Old inscription",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Newspaper advertisement",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_002",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'सुख' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "दुःख",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "हँसी",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "शांति",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "आनंद",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_024",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the adverb: She sings ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "beauty",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "beautifully",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "singer",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "beautiful",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_011",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which organ pumps blood around the body? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stomach",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lungs",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Heart",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_007",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which is the fastest land animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Cheetah",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Leopard",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_005",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What does a compass help us find?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Age",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Directions",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Weight",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_018",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Why are rivers important to settlements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They create deserts",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "They provide water and support activities",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "They stop all travel",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "They remove all soil",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_042",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'सुख' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "दुःख",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "शांति",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आनंद",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "हँसी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_018",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "'गाय' का पुल्लिंग क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "बैल",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "भैंस",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "घोड़ा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "बकरी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_026",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'मीठा आम' में विशेषण क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "का",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "मीठा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "में",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_012",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Who wrote the Indian national anthem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sarojini Naidu",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bankim Chandra Chatterjee",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Subramania Bharati",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rabindranath Tagore",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c3_021",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which organ pumps blood around the body? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stomach",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Lungs",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Heart",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_027",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 81 ÷ 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_040",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 120 ÷ 10?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_016",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which landform is high and steep?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mountain",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Plain",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Coast",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_001",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 7 × 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "43",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "41",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "52",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "42",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_044",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'लड़का खेलता है।' में कर्ता कौन है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "खेलता है",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "है",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "लड़का",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "कोई नहीं",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_035",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is water changing into vapour called? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freezing",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Evaporation",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Condensation",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Melting",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_024",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which material is a good conductor of electricity? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wood",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Rubber",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Copper",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Plastic",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_026",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which part of a plant makes seeds? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bark",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Flower",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Stem",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_047",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is 9 × 8? Practice variation 47",
+      "options": [
+        {
+          "id": "a",
+          "text": "72",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "71",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "73",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "82",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_011",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the common noun: The teacher reads a book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "reads",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "teacher",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "the",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_019",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She readed a book.",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "She reading book.",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "She are read book.",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "She is reading a book.",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c3_002",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is 8 × 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "55",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "57",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "56",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "66",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_037",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which of these is a renewable source of energy? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coal",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Petrol",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Natural gas",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_008",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Choose the correct comparative form of 'tall'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "talling",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "more tall",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "taller",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "tallest",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c3_043",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "'पुस्तक' का सरल पर्यायवाची क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "कलम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "कागज",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "मेज",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "किताब",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_042",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the proper noun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "river",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "India",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "city",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "country",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_020",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is a timeline used to show?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Events in chronological order",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Only distances",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Only temperatures",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Only populations",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c3_047",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is a desert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A frozen ocean",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A river valley only",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A very dry region",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "A dense city",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_018",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "Which organ pumps blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Kidney",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Brain",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lungs",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_015",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What is water changing into vapour called? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Evaporation",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Condensation",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Melting",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Freezing",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_003",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 3,
+      "question": "What force pulls objects toward Earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Magnetism",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Gravity",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Sound",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Friction",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c3_039",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kolkata",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mumbai",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Chennai",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "New Delhi",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c3_035",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the synonym of 'happy'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sad",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "joyful",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "slow",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "angry",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c3_042",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Which gas do plants use during photosynthesis? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helium",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen only",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Carbon dioxide",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Oxygen",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c3_044",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 3,
+      "question": "Choose the adverb: She sings ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "beautiful",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "singer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "beautifully",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "beauty",
+          "isAnswer": false
+        }
+      ]
+    }
+  ]
+}

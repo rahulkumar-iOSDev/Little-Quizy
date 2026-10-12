@@ -12,16 +12,18 @@ struct QuizTabView: View {
 
     var body: some View {
         @Bindable var router = router
-        TabView {
+        TabView(selection: $router.selectedTab) {
+            
             NavigationStack(path: $router.subject.routes) {
                 SubjectsView()
-                    .navigationDestination(for: SubjectRoute.self) { route in
+                    .navigationDestination( for: SubjectRoute.self ) { route in
                         SubjectRouteView(route: route)
                     }
             }
             .tabItem {
-                Label("Subjects",systemImage: "book.fill")
+                Label( "Subjects", systemImage: "book.fill" )
             }
+            .tag(QuizTab.subjects)
             
             NavigationStack(path: $router.random.routes) {
                 RandomView()
@@ -30,18 +32,20 @@ struct QuizTabView: View {
                     }
             }
             .tabItem {
-                Label("Random", systemImage: "dice.fill")
+                Label( "Random", systemImage: "dice.fill" )
             }
+            .tag(QuizTab.random)
 
             NavigationStack(path: $router.profile.routes) {
                 ProfileView()
-                    .navigationDestination(for: ProfileRoute.self) { route in
+                    .navigationDestination( for: ProfileRoute.self ) { route in
                         ProfileRouteView(route: route)
                     }
             }
             .tabItem {
-                Label("Profile", systemImage: "person.crop.circle")
+                Label( "Profile", systemImage: "person.crop.circle" )
             }
+            .tag(QuizTab.profile)
         }
     }
 }

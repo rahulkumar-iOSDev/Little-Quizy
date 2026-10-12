@@ -25,6 +25,7 @@ struct OnboardingRouteView: View {
 // MARK: - Subject Tab Route
 enum SubjectRoute: Hashable {
     case subjectQuizView(Subject, String)
+    case quizResultView(Int, Int, QuizMode)
 }
 
 struct SubjectRouteView: View {
@@ -33,6 +34,8 @@ struct SubjectRouteView: View {
         switch route {
         case .subjectQuizView(let subject, let navTitle):
             QuizView(navTitle: navTitle, mode: .subject(subject))
+        case .quizResultView(let answer, let question, let quizMode):
+            QuizResultView(correctAnswers: answer, totalQuestions: question, quizMode: quizMode)
         }
     }
 }
@@ -40,6 +43,7 @@ struct SubjectRouteView: View {
 // MARK: - Random Tab Route
 enum RandomRoute: Hashable {
     case randomQuiz(String)
+    case quizResultView(Int, Int, QuizMode)
 }
 
 struct RandomRouteView: View {
@@ -48,21 +52,23 @@ struct RandomRouteView: View {
         switch route {
         case .randomQuiz(let navTitle):
             QuizView(navTitle: navTitle, mode: .random)
+        case .quizResultView(let answer, let question, let quizMode):
+            QuizResultView(correctAnswers: answer, totalQuestions: question, quizMode: quizMode)
         }
     }
 }
 
 // MARK: - Profile Tab Route
 enum ProfileRoute: Hashable {
-    case editProfile
+    case emptyView
 }
 
 struct ProfileRouteView: View {
     let route: ProfileRoute
     var body: some View {
         switch route {
-        case .editProfile:
-            EditProfileView()
+        case .emptyView:
+            EmptyView()
         }
     }
 }

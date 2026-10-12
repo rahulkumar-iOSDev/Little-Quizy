@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum QuizMode {
+enum QuizMode: Hashable {
     case random
     case subject(Subject)
 }
@@ -22,6 +22,23 @@ enum Subject: String, Codable, CaseIterable, Identifiable {
 
     var id: String { rawValue }
     var title: String { rawValue.capitalized }
+    
+    var emoji: String {
+        switch self {
+        case .maths:
+            return "🧮"
+        case .science:
+            return "🧪"
+        case .english:
+            return "📖"
+        case .socialStudies:
+            return "🌎"
+        case .hindi:
+            return "अ"
+        case .gk:
+            return "💡"
+        }
+    }
 }
 
 enum Difficulty: String, Codable {

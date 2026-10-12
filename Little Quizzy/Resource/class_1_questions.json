@@ -1,0 +1,9004 @@
+{
+  "questions": [
+    {
+      "id": "science_c1_025",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which of these is a living thing? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stone",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Book",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Tree",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Chair",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_038",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we call the place where land meets the sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coast",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Forest",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_014",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which place is used for learning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airport",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Hospital",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Market",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "School",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_043",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the adjective: It is a ___ flower.",
+      "options": [
+        {
+          "id": "a",
+          "text": "flower",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "run",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "slowly",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "beautiful",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_035",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 12 - 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_013",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 13 + 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "16",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "17",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_015",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the opposite of 'hot'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cold",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "big",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "fast",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "warm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_016",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'गाय' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "संज्ञा",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_007",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which is a natural feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Building",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bridge",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "River",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Road",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_003",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the adjective: It is a ___ flower.",
+      "options": [
+        {
+          "id": "a",
+          "text": "flower",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "beautiful",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "slowly",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "run",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_037",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'मैं' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_008",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct spelling.",
+      "options": [
+        {
+          "id": "a",
+          "text": "school",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "shcool",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "skool",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "scool",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_021",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 9 - 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "5",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_025",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal is known for its long trunk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Elephant",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_047",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct pronoun: ___ am happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Me",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "My",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mine",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "I",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_022",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which body part helps us see? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eyes",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Hands",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Nose",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_015",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal is known for its long trunk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Elephant",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Dog",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_045",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 8 + 5? Practice variation 45",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "15",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_001",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which part of a plant is usually green?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leaf",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Flower",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Seed",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_001",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'आम' शब्द में कौन सा अक्षर पहले आता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "न",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "आ",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "क",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "म",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_018",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct spelling.",
+      "options": [
+        {
+          "id": "a",
+          "text": "scool",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "shcool",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "skool",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "school",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_048",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal has feathers? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bird",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Fish",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Cat",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_016",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do plants need from the Sun to grow? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sand",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_008",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which season is usually coldest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spring",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Summer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Winter",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Monsoon",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_038",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal has feathers? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Cat",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Fish",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Bird",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_033",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 19 - 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_003",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is a family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A group of people related or caring for one another",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "A type of road",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A river",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A planet",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_029",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which transport travels on railway tracks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boat",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Aeroplane",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Bicycle",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Train",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_021",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venus",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Jupiter",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mars",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Earth",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_025",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the opposite of 'hot'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cold",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "big",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "fast",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "warm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_015",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which of these is a living thing? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Book",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Chair",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Tree",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Stone",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_033",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the adjective: It is a ___ flower.",
+      "options": [
+        {
+          "id": "a",
+          "text": "flower",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "run",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "slowly",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "beautiful",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_005",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 8 + 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "15",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_018",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we call the place where land meets the sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Forest",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Coast",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_034",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'बड़ा' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "लंबा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "छोटा",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "ऊँचा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "भारी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_007",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which sense helps you smell a flower?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skin",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Nose",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_004",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'बड़ा' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "छोटा",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "भारी",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "ऊँचा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "लंबा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_002",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 6 + 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_025",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 15 - 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_016",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which shape has three sides?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Triangle",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Circle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Square",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rectangle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_010",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which part of the body helps us walk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legs",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Hair",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_014",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'बड़ा' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "छोटा",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "ऊँचा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "लंबा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "भारी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_014",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is the national bird of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sparrow",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Peacock",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Crow",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Parrot",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_027",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct pronoun: ___ am happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Me",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "I",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "My",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Mine",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_014",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 14 + 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "19",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "18",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "21",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "20",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_016",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 16 + 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "19",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "18",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "17",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "20",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_017",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which sense helps you smell a flower? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nose",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Skin",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Ears",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_022",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which direction does the Sun rise from?",
+      "options": [
+        {
+          "id": "a",
+          "text": "East",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "South",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "West",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "North",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_010",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 6 + 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_027",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which sense helps you smell a flower? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Skin",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Nose",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_029",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "How many legs does a spider have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "4",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_032",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'कमल' का पहला अक्षर क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "ल",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "अ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_040",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "वाक्य के अंत में सामान्यतः कौन सा चिन्ह लगाया जाता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "?",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "।",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": ",",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_025",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Who helps keep a city safe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chef",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Police",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Pilot",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Farmer",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_006",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do plants need from the Sun to grow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Smoke",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_046",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do plants need from the Sun to grow? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunlight",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Plastic",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_016",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct article: ___ apple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "no",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "an",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "the",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_023",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 10 - 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "4",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "5",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_008",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'दौड़ना' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_008",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 4 + 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_033",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is the national flower of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lotus",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Jasmine",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sunflower",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rose",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_012",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the verb: The birds ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "blue",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "happy",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "fly",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "birds",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_023",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is a family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A planet",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A river",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A group of people related or caring for one another",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "A type of road",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_011",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which part of a plant is usually green? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Leaf",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Flower",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Seed",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_002",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which direction does the Sun rise from?",
+      "options": [
+        {
+          "id": "a",
+          "text": "East",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "South",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "North",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "West",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_006",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'गाय' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_034",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct plural of 'cat'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cates",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "cats",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "cat",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "cat's",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_030",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which festival is widely known as the festival of lights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diwali",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Baisakhi",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Holi",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Eid",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_048",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'दौड़ना' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "संज्ञा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_049",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "Choose the past tense of 'jump'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "jumping",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "jumped",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "jumps",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "jumpt",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_027",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which colour is made by mixing red and yellow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Orange",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Purple",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Green",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_047",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'मैं' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_030",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        {
+          "id": "a",
+          "text": ".",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": ",",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "?",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "!",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_040",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Why do people follow rules?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To cause confusion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "To keep order and safety",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "To waste time",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "To stop learning",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_011",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 11 + 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "16",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "14",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_041",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the noun: ___ is running.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "The dog",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Run",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Quickly",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_041",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "How many days are there in a week?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "5",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_041",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Jupiter",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Mars",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Venus",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_031",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which part of a plant is usually green? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flower",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Root",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Leaf",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Seed",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_033",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal gives us milk? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cow",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Eagle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Tiger",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_013",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is a family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A river",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A group of people related or caring for one another",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "A planet",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A type of road",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_039",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "How many legs does a spider have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "4",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_026",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'गाय' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_021",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which part of a plant is usually green? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flower",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Leaf",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Seed",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Root",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_004",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we use to hear sounds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ears",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Feet",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Teeth",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_024",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct plural of 'cat'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cat",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "cat's",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "cats",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "cates",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_030",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Why do people follow rules?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To waste time",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "To keep order and safety",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "To cause confusion",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "To stop learning",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_002",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'कमल' का पहला अक्षर क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "ल",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "क",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "अ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_045",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'जल' का सरल शब्द क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "हवा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "मिट्टी",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आग",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "पानी",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_048",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which season is usually coldest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Summer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Spring",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Monsoon",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Winter",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_032",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which body part helps us see? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hands",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Eyes",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Nose",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Ears",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_037",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct pronoun: ___ am happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "My",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Mine",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Me",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "I",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_003",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal gives us milk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eagle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Cow",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Tiger",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_039",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we drink when we are thirsty? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Soil",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sand",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_031",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'आम' शब्द में कौन सा अक्षर पहले आता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "न",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "आ",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_005",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'जल' का सरल शब्द क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "मिट्टी",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "हवा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आग",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "पानी",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_015",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'जल' का सरल शब्द क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आग",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "मिट्टी",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "पानी",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "हवा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_021",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the noun: ___ is running.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "The dog",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Quickly",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Run",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_037",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which colour is made by mixing red and yellow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orange",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Purple",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Green",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_020",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which festival is widely known as the festival of lights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baisakhi",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Holi",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Diwali",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Eid",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_010",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Why do people follow rules?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To waste time",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "To keep order and safety",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "To cause confusion",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "To stop learning",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_024",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 12 - 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_017",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 17 + 1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "19",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "18",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "20",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "17",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_042",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which direction does the Sun rise from?",
+      "options": [
+        {
+          "id": "a",
+          "text": "West",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "South",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "North",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "East",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_046",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct article: ___ apple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "no",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "an",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "a",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_008",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we call the place where land meets the sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Coast",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Forest",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_047",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which is a natural feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "River",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Bridge",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Building",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Road",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_044",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we use to hear sounds? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feet",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Ears",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_047",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which colour is made by mixing red and yellow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Green",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Orange",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Purple",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_042",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the verb: The birds ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "birds",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "fly",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "happy",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "blue",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_035",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'जल' का सरल शब्द क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "पानी",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "मिट्टी",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आग",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "हवा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_034",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is the national bird of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parrot",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Peacock",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Crow",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sparrow",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_024",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is the national bird of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peacock",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Crow",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Parrot",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sparrow",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_012",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which body part helps us see? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hands",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Nose",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Eyes",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_049",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "'सुंदर' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_002",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the verb: The birds ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "happy",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "blue",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "fly",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "birds",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_048",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct spelling.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shcool",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "school",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "skool",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "scool",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_028",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'दौड़ना' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "क्रिया",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "संज्ञा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_050",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "What is 6 + 6? Practice variation 50",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_022",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the verb: The birds ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "happy",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "blue",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "birds",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "fly",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_041",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 3 + 4? Practice variation 41",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_043",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'दिन' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सुबह",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सूरज",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "रात",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "प्रकाश",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_034",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we use to hear sounds? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Ears",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Feet",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_050",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "Which part of the body helps us walk? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legs",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Hair",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_029",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the past tense of 'jump'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "jumped",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "jumping",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "jumpt",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "jumps",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_020",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        {
+          "id": "a",
+          "text": ",",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "?",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": ".",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_011",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the noun: ___ is running.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quickly",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "The dog",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Run",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_020",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Why do people follow rules?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To waste time",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "To cause confusion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "To stop learning",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "To keep order and safety",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_043",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is the national flower of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lotus",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Rose",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jasmine",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sunflower",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_018",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal has feathers? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Cat",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Fish",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Bird",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_011",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many days are there in a week?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_028",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct spelling.",
+      "options": [
+        {
+          "id": "a",
+          "text": "school",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "skool",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "scool",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "shcool",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_020",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which part of the body helps us walk? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Legs",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Hair",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Ears",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_009",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'सुंदर' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_040",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which part of the body helps us walk? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hair",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Legs",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_012",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which direction does the Sun rise from?",
+      "options": [
+        {
+          "id": "a",
+          "text": "East",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "West",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "South",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "North",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_028",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal has feathers? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fish",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bird",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Cat",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Dog",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_044",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which place is used for learning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hospital",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Market",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Airport",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "School",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_009",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the past tense of 'jump'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "jumped",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "jumpt",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "jumping",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "jumps",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_047",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 2 + 9? Practice variation 47",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_050",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "?",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": ",",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": ".",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_046",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which shape has three sides?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Square",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Rectangle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Triangle",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Circle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_038",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'दौड़ना' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_001",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many days are there in a week?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "5",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_039",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 14 - 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "5",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_034",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which place is used for learning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Market",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Airport",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "School",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Hospital",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_049",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "Which transport travels on railway tracks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bicycle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Train",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Aeroplane",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Boat",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_007",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which colour is made by mixing red and yellow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Green",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Orange",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Purple",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Blue",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_031",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 17 - 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_036",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do plants need from the Sun to grow? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sunlight",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_020",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 20 + 0?",
+      "options": [
+        {
+          "id": "a",
+          "text": "21",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "20",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "22",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "19",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_042",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which body part helps us see? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hands",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Eyes",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Nose",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_023",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal gives us milk? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tiger",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Cow",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Eagle",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lion",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_024",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which place is used for learning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Market",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Hospital",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Airport",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "School",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_050",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "Why do people follow rules?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To keep order and safety",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "To cause confusion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "To stop learning",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "To waste time",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_009",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which transport travels on railway tracks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aeroplane",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Boat",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Train",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Bicycle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_044",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 9 + 3? Practice variation 44",
+      "options": [
+        {
+          "id": "a",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_026",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct article: ___ apple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "an",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "no",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "the",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_019",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many legs does a spider have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_018",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'दौड़ना' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_019",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which transport travels on railway tracks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aeroplane",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Bicycle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Boat",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Train",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_024",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we use to hear sounds? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Ears",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Feet",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_010",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which festival is widely known as the festival of lights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eid",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Holi",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Diwali",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Baisakhi",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_038",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 16 - 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_025",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'जल' का सरल शब्द क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "मिट्टी",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "हवा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "आग",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "पानी",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_042",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'कमल' का पहला अक्षर क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "अ",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "ल",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_009",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we drink when we are thirsty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Water",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Soil",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_007",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 2 + 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_008",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal has feathers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Fish",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Bird",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Cat",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_001",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 3 + 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "8",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_011",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'आम' शब्द में कौन सा अक्षर पहले आता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "आ",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "न",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "म",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_007",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct pronoun: ___ am happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mine",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Me",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "My",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "I",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_031",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the noun: ___ is running.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quickly",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Run",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "The dog",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_027",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which is a natural feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bridge",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Road",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "River",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Building",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_017",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which colour is made by mixing red and yellow?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Green",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Orange",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Purple",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_031",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Mars",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jupiter",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Venus",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_027",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 11 - 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_017",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'मैं' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_024",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'बड़ा' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ऊँचा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "लंबा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "छोटा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "भारी",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_032",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 20 - 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "15",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_035",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Who helps keep a city safe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pilot",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Farmer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Police",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Chef",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_050",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "वाक्य के अंत में सामान्यतः कौन सा चिन्ह लगाया जाता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "?",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "।",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": ",",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_022",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'कमल' का पहला अक्षर क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "ल",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "अ",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "म",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_028",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we call the place where land meets the sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coast",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Forest",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_040",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        {
+          "id": "a",
+          "text": ".",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": ",",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "?",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_015",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 15 + 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "17",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "18",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "20",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "19",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_041",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'आम' शब्द में कौन सा अक्षर पहले आता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "आ",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "क",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "न",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_040",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 20 - 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_020",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "वाक्य के अंत में सामान्यतः कौन सा चिन्ह लगाया जाता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "?",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "।",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": ",",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_035",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which of these is a living thing? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stone",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Chair",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Tree",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Book",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_029",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we drink when we are thirsty? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Soil",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_003",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is the national flower of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunflower",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Rose",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jasmine",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lotus",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_014",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct plural of 'cat'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cat",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "cats",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "cates",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "cat's",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_006",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which shape has three sides?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Circle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Triangle",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Square",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rectangle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_045",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Who helps keep a city safe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pilot",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Farmer",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Chef",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Police",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_023",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the adjective: It is a ___ flower.",
+      "options": [
+        {
+          "id": "a",
+          "text": "slowly",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "run",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "beautiful",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "flower",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_039",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'सुंदर' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_002",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which body part helps us see?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eyes",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Nose",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Hands",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_019",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'सुंदर' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_032",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which direction does the Sun rise from?",
+      "options": [
+        {
+          "id": "a",
+          "text": "West",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "East",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "North",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "South",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_037",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which sense helps you smell a flower? Select the correct statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Nose",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Skin",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Ears",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_018",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which season is usually coldest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Summer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Spring",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Monsoon",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Winter",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_039",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the past tense of 'jump'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "jumped",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "jumping",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "jumps",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "jumpt",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_028",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 13 - 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_030",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "वाक्य के अंत में सामान्यतः कौन सा चिन्ह लगाया जाता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "।",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "?",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": ",",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_003",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 5 + 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_023",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is the national flower of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rose",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Sunflower",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jasmine",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Lotus",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_021",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'आम' शब्द में कौन सा अक्षर पहले आता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "न",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "आ",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_004",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which place is used for learning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airport",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "School",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Market",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Hospital",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_011",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venus",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Earth",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Mars",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Jupiter",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_044",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'बड़ा' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ऊँचा",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "भारी",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "छोटा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "लंबा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_045",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal is known for its long trunk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Elephant",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_022",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 8 - 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "4",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "5",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_048",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do we call the place where land meets the sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forest",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Valley",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Desert",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Coast",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_014",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we use to hear sounds? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feet",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Eyes",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Ears",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_034",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 15 - 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_012",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 12 + 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "17",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "18",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "15",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "16",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_015",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Who helps keep a city safe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Police",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Pilot",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Chef",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Farmer",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_013",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'दिन' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सूरज",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "प्रकाश",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सुबह",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "रात",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_031",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "How many days are there in a week?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "5",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_021",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many days are there in a week?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "5",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_012",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'कमल' का पहला अक्षर क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "म",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "ल",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "अ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_029",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 16 - 8?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_005",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal is known for its long trunk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Elephant",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Lion",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_049",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "What do we drink when we are thirsty? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Water",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Soil",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_009",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many legs does a spider have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_012",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many months are there in a year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_005",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Who helps keep a city safe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Farmer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Chef",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Pilot",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Police",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_004",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 9 + 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_007",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'मैं' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_043",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is a family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A type of road",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A river",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A planet",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "A group of people related or caring for one another",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_037",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which is a natural feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bridge",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Road",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "River",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Building",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_036",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 10 - 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "7",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_035",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the opposite of 'hot'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cold",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "big",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "fast",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "warm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_036",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is a map used for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Showing places",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Growing plants",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Measuring temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Cooking food",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_026",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 14 - 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_004",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct plural of 'cat'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cat",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "cats",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "cat's",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "cates",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_016",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is a map used for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measuring temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Showing places",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Growing plants",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Cooking food",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_033",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'दिन' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "प्रकाश",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सूरज",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सुबह",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "रात",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_017",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct pronoun: ___ am happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mine",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "I",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "My",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Me",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_013",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which animal gives us milk? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eagle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Tiger",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Cow",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_010",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        {
+          "id": "a",
+          "text": ",",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": ".",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "?",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_019",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 19 + 1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "21",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "22",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "19",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_037",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 18 - 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_018",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 18 + 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "19",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "20",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "22",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "21",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_049",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "What is 10 + 5? Practice variation 49",
+      "options": [
+        {
+          "id": "a",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "16",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "17",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "15",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_006",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is a map used for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measuring temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Growing plants",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Showing places",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Cooking food",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_026",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is a map used for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measuring temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Cooking food",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Growing plants",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Showing places",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "english_c1_001",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the noun: ___ is running.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The dog",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Run",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Blue",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Quickly",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_044",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is the national bird of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sparrow",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Parrot",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Crow",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Peacock",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_046",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 7 + 6? Practice variation 46",
+      "options": [
+        {
+          "id": "a",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "13",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "15",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_028",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which season is usually coldest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Summer",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Monsoon",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Spring",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Winter",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_042",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 6 + 2? Practice variation 42",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "7",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_022",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many months are there in a year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_040",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which festival is widely known as the festival of lights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baisakhi",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Diwali",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Eid",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Holi",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_045",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the opposite of 'hot'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "fast",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "cold",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "big",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "warm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_013",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is the national flower of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lotus",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Sunflower",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jasmine",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rose",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_002",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "How many months are there in a year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "science_c1_047",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which sense helps you smell a flower? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nose",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Skin",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Eyes",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_036",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which shape has three sides?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Circle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Triangle",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Square",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Rectangle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_045",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which of these is a living thing? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stone",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Chair",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Tree",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Book",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_036",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'गाय' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "क्रिया",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_043",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal gives us milk? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tiger",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Eagle",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Cow",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Lion",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_004",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is the national bird of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peacock",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Sparrow",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Parrot",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Crow",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_048",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 4 + 8? Practice variation 48",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_046",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'गाय' किस प्रकार का शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "विशेषण",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "संज्ञा",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_026",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What do plants need from the Sun to grow? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Plastic",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Sunlight",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_050",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "Which festival is widely known as the festival of lights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baisakhi",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Holi",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Eid",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Diwali",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_023",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'दिन' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "रात",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "प्रकाश",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सुबह",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "सूरज",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_019",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the past tense of 'jump'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "jumped",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "jumps",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "jumpt",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "jumping",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_029",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'सुंदर' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "सर्वनाम",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "विशेषण",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "संज्ञा",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_030",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which part of the body helps us walk? Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ears",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Teeth",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Hair",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Legs",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_003",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "'दिन' का विलोम क्या है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "सूरज",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "प्रकाश",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "रात",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "सुबह",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_005",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the opposite of 'hot'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cold",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "big",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "fast",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "warm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_038",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct spelling.",
+      "options": [
+        {
+          "id": "a",
+          "text": "scool",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "school",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "shcool",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "skool",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_042",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "How many months are there in a year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_038",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which season is usually coldest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Winter",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Monsoon",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Summer",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Spring",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_027",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "'मैं' कौन सा शब्द है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "क्रिया",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "संज्ञा",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "सर्वनाम",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "विशेषण",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_006",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the correct article: ___ apple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "an",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "no",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "the",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_035",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which animal is known for its long trunk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lion",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Dog",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Horse",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Elephant",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_046",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is a map used for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measuring temperature",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Cooking food",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Showing places",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "Growing plants",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_005",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which of these is a living thing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chair",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Tree",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Book",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Stone",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_026",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which shape has three sides?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Triangle",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Square",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Rectangle",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Circle",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_009",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 10 + 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "16",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "17",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_032",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the verb: The birds ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "blue",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "fly",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "happy",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "birds",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_041",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which part of a plant is usually green? Pick the correct answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leaf",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Flower",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Seed",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Root",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_044",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct plural of 'cat'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cates",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "cat",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "cats",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "cat's",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_013",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Choose the adjective: It is a ___ flower.",
+      "options": [
+        {
+          "id": "a",
+          "text": "run",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "beautiful",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "flower",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "slowly",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_033",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is a family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A type of road",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "A river",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "A group of people related or caring for one another",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "A planet",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_006",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What is 7 + 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "13",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "15",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_030",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 18 - 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "11",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_049",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "hard",
+      "class": 1,
+      "question": "How many legs does a spider have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "8",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "4",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_001",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which planet do we live on?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Earth",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Mars",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Jupiter",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Venus",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_c1_010",
+      "subjectId": "hindi",
+      "subject": "Hindi",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "वाक्य के अंत में सामान्यतः कौन सा चिन्ह लगाया जाता है?",
+      "options": [
+        {
+          "id": "a",
+          "text": "!",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": ",",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "।",
+          "isAnswer": true
+        },
+        {
+          "id": "d",
+          "text": "?",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "science_c1_019",
+      "subjectId": "science",
+      "subject": "Science",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "What do we drink when we are thirsty? Choose the best answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sand",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Water",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Smoke",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Soil",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "english_c1_036",
+      "subjectId": "english",
+      "subject": "English",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Choose the correct article: ___ apple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "an",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "a",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "no",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "gk_c1_032",
+      "subjectId": "gk",
+      "subject": "GK",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "How many months are there in a year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "10",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "13",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "maths_c1_043",
+      "subjectId": "maths",
+      "subject": "Maths",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "What is 5 + 7? Practice variation 43",
+      "options": [
+        {
+          "id": "a",
+          "text": "13",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "14",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "11",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "12",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_017",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "easy",
+      "class": 1,
+      "question": "Which is a natural feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "River",
+          "isAnswer": true
+        },
+        {
+          "id": "b",
+          "text": "Building",
+          "isAnswer": false
+        },
+        {
+          "id": "c",
+          "text": "Road",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Bridge",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "social_studies_c1_039",
+      "subjectId": "social_studies",
+      "subject": "Social Studies",
+      "difficulty": "medium",
+      "class": 1,
+      "question": "Which transport travels on railway tracks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bicycle",
+          "isAnswer": false
+        },
+        {
+          "id": "b",
+          "text": "Train",
+          "isAnswer": true
+        },
+        {
+          "id": "c",
+          "text": "Boat",
+          "isAnswer": false
+        },
+        {
+          "id": "d",
+          "text": "Aeroplane",
+          "isAnswer": false
+        }
+      ]
+    }
+  ]
+}

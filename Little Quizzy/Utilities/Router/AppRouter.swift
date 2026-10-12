@@ -15,4 +15,13 @@ final class AppRouter {
     var subject = RouteStack<SubjectRoute>()
     var random = RouteStack<RandomRoute>()
     var profile = RouteStack<ProfileRoute>()
+    
+        
+    var selectedTab: QuizTab = .subjects
+}
+
+enum QuizTab: Hashable {
+    case subjects
+    case random
+    case profile
 }

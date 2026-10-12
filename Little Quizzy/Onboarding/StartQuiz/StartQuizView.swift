@@ -14,6 +14,7 @@ struct StartQuizView: View {
     
     @AppStorage(AppStorageKey.hasCompletedOnboarding) private var hasCompletedOnboarding = false
     @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""
+    @AppStorage(AppStorageKey.selectedClass) private(set) var savedClass: Int = 1
     
     var body: some View {
         ScrollView(.vertical) {
@@ -71,6 +72,7 @@ struct StartQuizView: View {
         guard !name.isEmpty else {
             return
         }
+        savedClass = selectedClass
         router.onboarding.removeAll()
         AppStorageUserName = name
         hasCompletedOnboarding = true
