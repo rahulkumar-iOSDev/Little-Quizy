@@ -16,6 +16,7 @@ struct ProfileView: View {
     @State private var viewModel = ProfileViewModel()
     @Query private var quizAttempts: [QuizAttempt]
     @Query(sort: \QuestionAttempt.answeredAt, order: .reverse) private var questionAttempts: [QuestionAttempt]
+    @Environment(ThemeManager.self) private var themeManager
 
     var body: some View {
         ScrollView {
@@ -32,7 +33,19 @@ struct ProfileView: View {
         .navigationTitle("Profile")
         .toolbar {
             ToolbarItem(placement: .topBarTrailing) {
-                settingsMenu
+                HStack {
+                    Button {
+                        themeManager.toggle()
+                    } label: {
+                        Image(systemName: themeManager.theme.toggleIcon)
+                            .imageScale(.large)
+                            .symbolRenderingMode(.hierarchical)
+                            .foregroundStyle(.appText)
+                    }
+                    .accessibilityLabel("Switch to \(themeManager.theme.toggled.title) theme")
+                    
+                    settingsMenu
+                }
             }
         }
         .onAppear {
@@ -91,7 +104,7 @@ struct ProfileView: View {
         } label: {
             Image(systemName: "gearshape.fill")
                 .font(.title3)
-                .foregroundStyle(Color.appPrimaryBlue)
+                .foregroundStyle(.appText)
                 .frame(width: 44, height: 44)
                 .contentShape(Rectangle())
         }
@@ -212,7 +225,6 @@ struct ProfileView: View {
         }
     }
 
-
     private var updateNameSheet: some View {
         NavigationStack {
             Form {
@@ -283,6 +295,7 @@ struct ProfileView: View {
 
 #Preview {
     ProfileView()
+        .environment(ThemeManager())
         .environment(AppRouter())
         .modelContainer(for: [QuizAttempt.self, QuestionAttempt.self])
 }

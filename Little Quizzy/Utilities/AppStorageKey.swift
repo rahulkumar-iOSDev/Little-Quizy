@@ -16,4 +16,6 @@ enum AppStorageKey {
     
     // MARK: - Quiz
     static let selectedClass = "selectedClass"
+    static let colorScheme = "colorScheme"
+    
 }

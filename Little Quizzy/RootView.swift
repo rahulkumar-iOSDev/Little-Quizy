@@ -13,8 +13,8 @@ struct RootView: View {
     private var hasCompletedOnboarding = false
 
     @State private var router = AppRouter()
+    @State private var themeManager = ThemeManager()
     
-
     var body: some View {
 
         Group {
@@ -25,6 +25,8 @@ struct RootView: View {
             }
         }
         .environment(router)
+        .environment(themeManager)
+        .preferredColorScheme(themeManager.theme.colorScheme)
         .modelContainer(for: [QuizAttempt.self, QuestionAttempt.self])
     }
 }

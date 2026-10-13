@@ -11,12 +11,12 @@ struct SubjectsView: View {
     @AppStorage(AppStorageKey.userName) private var AppStorageUserName = ""
     @State private var viewModel = SubjectsViewModel()
     @Environment(AppRouter.self) private var router
-    
+
     let columns = [
         GridItem(.flexible(), spacing: 24),
         GridItem(.flexible(), spacing: 24)
     ]
-    
+
     var body: some View {
         VStack(alignment: .leading) {
             VStack(alignment: .leading) {
@@ -25,7 +25,7 @@ struct SubjectsView: View {
                     .font(.system(size: 28))
                     .fontWeight(.semibold)
                     .foregroundStyle(.appText)
-                
+
                 Text("Ready to learn?")
                     .multilineTextAlignment(.leading)
                     .font(.callout)
@@ -49,4 +49,5 @@ struct SubjectsView: View {
 
 #Preview {
     SubjectsView()
+        .environment(AppRouter())
 }

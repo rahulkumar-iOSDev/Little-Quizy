@@ -3,6 +3,16 @@
     {
       "filename" : "splash_clean.png",
       "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Little Quizzy_ Learn, Think, Grow.png",
+      "idiom" : "universal"
     }
   ],
   "info" : {
