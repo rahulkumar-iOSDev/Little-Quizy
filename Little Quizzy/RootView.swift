@@ -16,7 +16,6 @@ struct RootView: View {
     @State private var themeManager = ThemeManager()
     
     var body: some View {
-
         Group {
             if hasCompletedOnboarding {
                 QuizTabView()
@@ -28,5 +27,6 @@ struct RootView: View {
         .environment(themeManager)
         .preferredColorScheme(themeManager.theme.colorScheme)
         .modelContainer(for: [QuizAttempt.self, QuestionAttempt.self])
+        .task { themeManager.syncAppIcon() }
     }
 }

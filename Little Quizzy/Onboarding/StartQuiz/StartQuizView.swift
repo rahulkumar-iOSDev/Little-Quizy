@@ -9,7 +9,7 @@ import SwiftUI
 
 struct StartQuizView: View {
     @State private var name: String = ""
-    @State private var selectedClass = 6
+    @State private var selectedClass = 4
     @Environment(AppRouter.self) private var router
     
     @AppStorage(AppStorageKey.hasCompletedOnboarding) private var hasCompletedOnboarding = false
@@ -20,7 +20,7 @@ struct StartQuizView: View {
         ScrollView(.vertical) {
             VStack {
                 
-                Spacer(minLength: 64)
+                Spacer(minLength: 30)
                 
                 Text("What's Your Name?")
                     .font(.system(size: 28))
@@ -85,33 +85,32 @@ struct StartQuizView: View {
 
 struct NameTextField: View {
     @Binding var name: String
-    
+    @FocusState private var isFocused: Bool
+
     var body: some View {
         HStack(spacing: 18) {
             Spacer()
             Image(systemName: "person.fill")
                 .font(.system(size: 24))
                 .foregroundStyle(Color(red: 0.48, green: 0.57, blue: 0.70))
-            
+
             TextField("Enter your name", text: $name)
                 .font(.system(size: 20, weight: .medium))
                 .foregroundStyle(.primary)
                 .frame(width: 200)
                 .tint(.appPrimaryBlue)
+                .focused($isFocused)
         }
         .padding(.horizontal, 30)
         .frame(height: 50)
         .background(Color.white)
         .overlay(
             RoundedRectangle(cornerRadius: 16)
-                .stroke(
-                    Color(red: 0.70, green: 0.82, blue: 1.0),
-                    lineWidth: 4
-                )
+                .stroke(Color(red: 0.70, green: 0.82, blue: 1.0), lineWidth: 4)
         )
-        .clipShape(
-            RoundedRectangle(cornerRadius: 16)
-        )
+        .clipShape(RoundedRectangle(cornerRadius: 16))
+        .contentShape(RoundedRectangle(cornerRadius: 16))
+        .onTapGesture { isFocused = true }
         .padding(.horizontal, 30)
     }
 }
